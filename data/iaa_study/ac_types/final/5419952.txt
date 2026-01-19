@@ -1,0 +1,20 @@
+0 [An der Leonardo da-Vinci Gesamtschule wird seit einigen Tagen disskutiert, ob Fast Food oder selber kochen besser ist.]AHG
+1 [Durch die Zeitung "Der kleine Gourmet" haben wir von den Schülervertretern einen Zeitungsartikel geschrieben.]AHG
+2 [Man sollte Fast Food kaufen statt selbst zu kochen.]TH2
+3 [Das Fast Food essen ist oftmals günstiger als selber zu kochen.]CON
+4 [Noemie (19 Jahre alt) verdient als Studentin kein Geld]CON
+5 [und deswegen hat sie kein Geld frisch und gesund zu kochen.]CON
+6 [Sie geht lieber zu einem Fast Food Geschäft.]CON
+7 [Das stärkste Agument Fast Food zu kaufen und zu essen ist, dass es schnell zubereitet ist.]CON
+8 [Linda (23 Jahre alt) kommt von einem langem Tag nachhause und möchte nicht stundenlang in der Küche stehen.]CON
+9 [Deswegen geht sie zu einem Fast Food Geschäft im Bahnhof.]CON
+10 [Nach drei Minuten (ohne anstehen) hat sie ihr essen und schafft sogar ihre Bahn.]CON
+11 [Man sollte kein Fast Food kaufen und lieber selbst kochen.]TH1
+12 [Das stärkste Agument selbst zu kochen ist, dass es gesünder ist.]PRO
+13 [Marie und ihre kleine Tochter Clara (32 Jahre alt und 4 Jahre alt) wohnen alleine und für die beiden ist es wichtig, dass das essen gesund ist.]PRO
+14 [Die beiden haben frührer immer an Fast Food Geschäften angestanden, bis Maries Tochter Clara Bauchschmerzen bekommen hat.]PRO
+15 [Seitdem haben die beide mehr spaß selber zu kochen als an einem Fast Food geschäft anzustehen.]PRO
+16 [Auch für uns der Schülervertreter ist es wichtig, dass das Essen gesund ist.]ZTH
+17 [Auch bei unserem Essenanbieter ist das essen gesund und frisch.]FAZ
+18 [Deswegen kochen Sie lieber frisch und gesund anstatt in ein Fast Food geschäft zu gehen.]FAZ
+19 [Probieren Sie eine Ofenkartofell mit einem frischen Salat.]FAZ

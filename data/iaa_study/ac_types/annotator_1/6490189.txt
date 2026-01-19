@@ -1,0 +1,31 @@
+[Am letzten Wandertag haben wir einen Rettungseinsatz der freiwilligen Feuerwehr beobachtet.]AHG
+[Diese arbeiten unentgeldlich.]WHG
+[Nach dieser Beobachtung, wurde in unserer Klasse viel diskutiert.]AHG
+[Jetzt möchte ich auch in diesem Artikel erörtern:]GLD
+[Sollte man ein Ehrenamt ausüben?]GLD
+[Einige brachten das Argument an, dass diese Art zweiter Beruf viel Nerven und Stress raube.]CON
+[Zum Beispiel im Gesundheitswesen gibt es psychische Belastungen.]CON
+[Und die freiwillige Feuerwehr muss jederzeit bereit sein.]CON
+[Zudem geht die Arbeit auch als richtiger Job, das wäre dann keine zusätzliche Zeit.]CON
+[Andere Menschen werden auch dafür bezahlt.]CON
+[Bei gleicher Arbeit, die geleistet wird, ist die Nichtbezahlung der Ehrenamtlichen unfair.]CON
+[Auf der anderen Seite lässt sich dagegen anbringen, dass es Spaß macht,]PRO
+[die Arbeit ist freiwillig ausgesucht]PRO
+[und man kann anderen Menschen helfen.]PRO
+[Dabei bekommt man Anerkennnung,]PRO
+[dafür dass man freiwillig hilft und uneigennützig ist.]PRO
+[Bei der Ausübung eines Ehrenamts kann man die Freizeit sinnvoll nutzen.]PRO
+[Das Einfühlungsvermögen wird gestärkt,]PRO
+[zurück kommen Liebe und Anerkennung.]PRO
+[Würden alle sich engagieren käme es zur Stärkung des Geminschaftsgefühls in der Gesellschaft.]PRO
+[Ich persönlich finde es wichtig, sich um andere zu sorgen und dabei sich zu engagieren.]ZTH
+[Wer das auch findet, sollte ein Ehrenamt ausüben.]FAZ
+[Einerseits gibt es eine unbezahlte Belastung, die auch einiges an Zeit einnimmt.]FAZ
+[Aber es kann auch Spaß machen,]FAZ
+[für Anerkennung sorgen]FAZ
+[und man nutzt die eigene Freizeit.]FAZ
+[Ein Ehrenamt ist sinnvoll zu ergreifen, wenn es nicht zu belastend u.a. psychisch ist.]FAZ
+[Menschen die nicht ohne bezahlung helfen wollen, können ein Beruf in dem Bereich ergreifen.]FAZ
+[Oder aber auch ehrenamtlich helfen, wenn es nur wenig ist, ist schon sinnvoll.]FAZ
+<MAN SOLLTE KEIN EHRENAMT AUSÜBEN>TH1
+<MAN SOLLTE EIN EHRENAMT AUSÜBEN>TH2

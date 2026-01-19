@@ -1,0 +1,20 @@
+0 [Genauso wie ich müssen jeden Tag viele Schüler in die Schule.]AHG
+1 [Wir schreiben mit, aber lesen auch sehr viel in unseren Schulbüchern.]AHG
+2 [Jetzt ist die Frage sollte man statt Büchern E-Books einführen.]TH1
+3 [Für E-Books würde sprechen, dass man nicht mehr so viele Bücher mit sich rum tragen müsste.]PRO
+4 [Je mehr Fächer man hat desto mehr Bücher muss man meistens mitnehmen.]PRO
+5 [Außerdem kann man in den gelienden Büchern der Schule nicht makieren oder Anmerkungen schreiben, dass könnte man am E-Book jedoch tun.]PRO
+6 [E-Books sind viel handlicher als große oder dicke Bücher.]PRO
+7 <BÜCHER SOLLTEN ERHALTEN BLEIBEN>TH2
+8 [Jedoch könnte man das Gefühl vermissen eine Seite umzublättern.]CON
+9 [Außerdem spricht für das Buch das man den Großteil der Bücher von der Schule geliehen bekommt]CON
+10 [und so kein Geld für das E-Book und die Bücher die man sich runterlanden muss ausgeben muss.]CON
+11 [Außerdem könnten die Kinder durch die elektrischen Geräte abgelenkt werden]CON
+12 [oder ein E-Book geht kapput.]CON
+13 [Ich bin jedoch troz der genanten Punkte fürs E-Book.]ZTH
+14 [Ich persönlich kriege von der schweren Mappe Rückenschmerzen.]PRO
+15 [Ein E-Book passt auch viel besser in einen Rucksack als mehrere Bücher]PRO
+16 [und wenn man Angst hat es geht kaputt, kann man eine Hßülle drum machen.]PRO
+17 [Viele Punkte sprechen fürs E-Book]FAZ
+18 [und da wir in eiem modernen Zeitalter leben ist es warscheinlich normal auf E-Books umzuspringen.]PRO
+19 [Ich Empfehle es, weil es den Altag in vielen Punkten vereinfacht.]FAZ

@@ -1,0 +1,31 @@
+0 [Hallo liebe Leserinnen und Leser, im Rahmen der Zeitschrift "Vorhang auf!" beschäftige ich mich heute mit einem heiß diskutiertem Thema, welches gerade unsere jüngeren Leser/innen betrifft.]SON
+1 [Jeder hat sich doch sicher schon einmal gewünscht, dass es andere und lustigere Fächer in der Schule geben sollte, die einem auch Spaß machen.]GLD
+2 [Genau so ein Fach könnte Darstellendes Spiel sein.]GLD
+3 [An vielen Schulen wird dieser Theaterunterricht berreits als wahlpflichtfach angeboten, doch nun soll es vielleicht bald verpflichtend ab der 7. Klasse eingeführt werden.]WHG
+4 [Ich hab mich mal ein bisschen in meiner Schule umgehört und mir ein Meinungsbild zusammengestellt.]AHG
+5 [Angenommen DS würde nun also als verpflichtend eingeführt werden.]TH1
+6 [dann würden Schüler/inne und Schüler spielerisch üben vor  anderen Menschen zu stehen und zu performen.]PRO
+7 [Das würde ihr Selbstvertrauen im besten Fall stärken]PRO
+8 [und sie auf das spätere Leben vorbereiten.]PRO
+9 [Das gleiche wird z.B. ja auch mit Vorträgen geübt.]PRO
+10 [Außerdem würde vielleicht der ein oder andere sein Talent für das Schauspielern erst dadurch entdecken.]PRO
+11 [Würde man dazu verpflichtete sein den Unterricht zu besuchen würe man vielleicht bemerken, dass das viel Spaß machen kann.]PRO
+12 [Ohne eine Verpflichtung hätte man es vielleicht nie ausprobiert.]PRO
+13 [Und zu guter letzt bietet der Schauspielunterricht einen guten Ausgleich neben den anderen Fächern, in denen man sich sehr wenig kreativ ausleben kann.]PRO
+14 [Selbst im Kunstunterricht geht es hauptsächlicgh darum Praktiken und Methoden zu lernen und nicht seine Kreativität zu entfalten.]PRO
+15 [Bei DS wäre das durchaus möglich,]PRO
+16 [da die Stücke ja meistens selbst entworfen]PRO
+17 [und von den Schüler/innen ausgearbeitet werden.]PRO
+18 [Dazu kommt, dass es einer der wenigen Fächern wäre, bei denen man nicht rumsitzen muss.]PRO
+19 [Wenn alles so bleibt, wie es gerade ist und DS weiterhin als Wahlfach ab der 10. Klasse existieren würde,]TH2
+20 [würden dagegen Schüler/innen mit Problemen vor vielen Mensche zu stehen nicht ständig dazu gezwungen werden genau das zu tun.]CON
+21 [Für viele ist solch eine Situation riesig viel Stress, der sich für sie vermeiden lassen würde.]CON
+22 [Sie könnten sich dann selbst aussuchen, ob sie das Fach gerne machen wollen oder nicht.]CON
+23 [Außerdem ist auch nicht jeder Mensch so gerne kreativ.]CON
+24 [Vielen macht das auch überhaupt keinen Spaß.]CON
+25 [Für sie ist es zeitverschwendung und so können sie während dessen ein anderes Fach machen, welches sie mehr interessiert.]CON
+26 [Und wenn DS nicht verpflichtend ist, sondern bewusst angewählt wird, dann sind auch hauptsächlich Leute in der Gruppe, die wirklich Lust darauf haben.]CON
+27 [Dadurch würdn die fertigen Produkte vermutlich auch besser.]CON
+28 [Ich persönlich finde beide Seiten haben starke Argumente]ZTH
+29 [und es ist stark davon abhängig, wie man peraönlich zu dem thema Schauspielern steht.]FAZ
+30 [Daher würde ich einen Mittelweg vorschlagen, bei dem man DS schon deutlich früher anbietet, also z.B. auch schon in der Schrundschule, aber trotzdem als freiwilliges Fach.]FAZ

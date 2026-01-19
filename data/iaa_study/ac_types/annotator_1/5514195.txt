@@ -1,0 +1,30 @@
+[Im anlass zu einer Argumentation zum Thema Ernährung, mache ich einen Artikel.]GLD
+[In dem Artikel geht es darum, ob man lieber fast food oder selbgemachtes Essen essen sollte, da es ein gäufig diskutiertes Thema ist.]GLD
+
+[Selbst gekochtes Essen ist gesünder als Fast Food!]TH1
+[Dadurch Man weiß was in dem essen enthalten ist, Inhaltstoffe,]PRO
+[und man kann selbste entscheiden was man kocht.]PRO
+[Außerdem sind dort keine Zusatzstoffe enthalten.]PRO
+[Außerdem ist es frischer]PRO
+[da du es normalerweise frisch vorher eingekauft hast im Supermarkt.]PRO
+[Du hast auch ein besseres gefühl]PRO
+[da du etwas selbst gekocht hast]PRO
+[und du kannst mit anderen beispielsweise zusammen kochen]PRO
+[und viel Spaß haben.]PRO
+
+<FAST FOOD IST BESSER.>TH2
+[Jedoch geht Fast Food schneller und praktischer.]CON
+[Es ist günstiger und preiswerter, gerade für Menschen die nicht viel Geld haben.]CON
+[Darüberhinaus hat es einen geringen Zeitaufwand,]CON
+[da du schon vorher bestellen kannst und du es dann nur noch abholen musst.]CON
+[Man kann es außerdem meistens aus der Hand essen]CON
+[und es ist praktisch]CON
+[da du es schon vorbereitet bekommst und nichts mehr etwas machen musst beispielsweise nach einem langen Tag.]CON
+
+[Aus meiner Sicht sollte man eine gesunde Mitte finden zwischen den beiden Essrichtungen.]ZTH
+[Man kann auch sich mal Fast food Essen gönnen, jedoch auf Dauer wird es sehr ungesund wenn man es zu oft tut.]FAZ
+[Beide Seiten der Argumentation kann ich verstehen.]FAZ
+[Jedoch sollte jeder selbst enscheiden was gut für sein Körper ist.]FAZ
+[Fast food sollte man essen in Maßen und kontrolliert essen.]FAZ
+[Kochen ist zeitaufwendiger, aber man sollte es trotzdem mindestens einmal pro Woche tun.]FAZ
+

@@ -1,0 +1,22 @@
+0 [In den ganzen Bundeslandern wird Diskutiert, ob in den Schulen ab der 7. Klasse das Fach Darstelllendesspiel als pflicht Fach eingeführt weden soll.]WHG
+1 [Deswegen verfasse ich in hand einer Erörterung einen Diskusionsbeitrag für die Zeitschrift "Vorhang auf".]AHG
+2 [DS SOLLTE EIN PFLICHTFACH SEIN.]TH2
+3 [Dafür spricht, das Kinder aus sich rauskommen,]CON
+4 [indem sie ihre Schauspielkünste zeigen.]CON
+5 [Als zweites spricht dafür, das die Schüler sich so einfach gute noten verdienen können,]CON
+6 [da dieses Fach nicht so viel Wissen wie andere Fächer erfordert.]CON
+7 [Als letztes spricht dafür, das die Schüler ihre fantasie ausleben können,]CON
+8 [indem sie sich zum Bsp. eigene Szenen ausdenken.]CON
+9 [DS SOLLTE KEIN PFLICHTFACH SEIN.]TH1
+10 [Dagegen spricht, das man gezwungen etwas zu tuhen]PRO
+11 [obwohl es einen unangenehm ist.]PRO
+12 [Z.B muss man auf die Bühne]PRO
+13 [obwohl es einem unangenehm ist.]PRO
+14 [Als zweites spricht dagegen, das die Noten sehr subjektiv gewährtet,]PRO
+15 [da es nur auf die sicht der Lahrkraft ankommt.]PRO
+16 [Als letztes spricht dagegen,das Hohe kosten aufkommen,]PRO
+17 [da man Accessoirs und Requisiten kaufen muss.]PRO
+18 [Als Fazit kann man Zusammenfassen das es viele Vorteile und nachteile gibt dieses Fach zu verpflichten.]FAZ
+19 [Meiner meinung nach sollte es ein Wahlpflicht fach sein]ZTH
+20 [da nicht jedes Kind Schauspielen möchte und vielleicht auch angst hat auf die Bühne zu gehen.]FAZ
+21 [Meine Empfehlung ist es als Wahlpflicht Fach zu machen, damit die Kinder sich aussuchen können ob sie dieses Fach machen möchten oder nicht.]FAZ

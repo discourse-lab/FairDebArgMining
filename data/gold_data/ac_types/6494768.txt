@@ -1,0 +1,28 @@
+0 [Nach einem Schulausflug, wird in der Klasse über das Thema ehrenamtliche Arbeit diskutiert.]AHG
+1 [In diesem Beitrag werde ich beide Positionen gegenüberstellen.]GLD
+2 [Ehrenamtliche arbeit gibt es in vielen Bereichen, dabei leistet man Arbeit ohne dafür bezahlt zu werden.]WHG
+3 [Häufig gibt es Ehrenämter an Stellen, wo Personal fehlt oder Firmen nicht die kapazitäten für Festanstellungen haben. Zb. Feuerwehr, tierheime, Vereine.]WHG
+4 [MAN SOLLTE NICHT EHRENAMTLICH ARBEITEN.]TH2
+5 [Die eine seite sagt andere werden für diese Arbeit bezahlt,]CON
+6 [da will man diese doch nicht umsonst machen.]CON
+7 [Jobs die Ehrenamtlich sind, sind haüfig sher anstrengend.]CON
+8 [Ein gutes Argument ist die Sache mit der Körperlichen Anstregung.]CON
+9 [Bei der Feuerwehr kann sogar lebensgefahr bestehen]CON
+10 [und man bekommt keine entschädigung dafür das man sein Leben auf sich nimmt.]CON
+11 [Des weiteren müssen oftmals sogar noch Beiträge bezahlt werden (mehr Geld gegben als bekommen).]CON
+12 [das geht damit einher, das die Stellen meistens finanziell schwach aufgestellt sind]CON
+13 [und eben nur durch spenden, Mitgliedsbeiträge und Ehrenämter funktionieren.]CON
+14 [Die andere Partei sieht das ganze so:]TH1
+15 [Ehrenamtliche Arbeit ist toll um Menschen und Berufsfelder zu unterstützen.]PRO
+16 [Man kann erfahrung in bestimmten Tätigkeitsbereichen sammeln.]PRO
+17 [Wenn man später einen bestimmten Job machen will. Kann man durch eine Tätigkeit im ehrenamt schon einmal erfahrung sammeln]PRO
+18 [und schauen ob das überhaupt etwas für einen ist.]PRO
+19 [In vielen Berufsfeldern fehlen zudem einfach Arbeitskräfte.]PRO
+20 [Damit es nicht zur knappheit und auch im eigenen Umfeld alles gut ist, wird Unterstützung gebraucht.]PRO
+21 [Bsp. Feuerwehr, es gibt nicht die Kapazitäten in jedem Ort Feuerwehrwachen mit Festangestellten zu errichten.]PRO
+22 [Letzteres tut man einfach was gutes.]PRO
+23 [Man Unterstützt beispielsweise vereine die ohne Ehrenämter nicht bestehen könnten,]PRO
+24 [da die Kapazitäten nicht da sind.]PRO
+25 [Abschließend kan man sagen das ehrenämter wirklich gebraucht werden damit verschiedene Dinge einfach eine Chance haben, bestehen zu bleiben.]FAZ
+26 [Ich bin deshalb für ehrenamtliche arbeit.]ZTH
+27 [Meine empfehlung ist, da diese Arbeit frewillig ist, sie nur zu machen wenn manauch wirklich möchte.]FAZ

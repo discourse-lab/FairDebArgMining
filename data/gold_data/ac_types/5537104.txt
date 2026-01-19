@@ -1,0 +1,25 @@
+0 [Aufgrund eines Projektes möchten wir herausfinden ob man lieber frisch kochen sollte oder Fast Food die bessere Lösung ist.]AHG
+1 [Jeden Tag sind wir konfrontiert mit der Frage "Was gibt es heute zu Essen?".]WHG
+2 [Da es ein Lebensnotwendiger Bestandteil ist, müssen wir auch entscheiden was wir zu uns nehmen.]WHG
+3 [Frisch kochen oder doch lieber Fast Food?]GLD
+4 [Es sprechen viele Argumente für die Zubereitung von frischem Essen.]TH1
+5 [Frische Zutaten sind gesund für den Körper,]PRO
+6 [da sie viele Vitamine enthalten,]PRO
+7 [zb bei der richtigen Zubereitung von Gemüse, gehen keine Vitamine verloren sondern bleiben enthalten.]PRO
+8 [Außerdem weiß man woher die Zutaten kommen]PRO
+9 [und welche Zutaten in den Gerichten überhaupt enthalten sind.]PRO
+10 [Wie z.B bei Obst und Gemüse, denn man kann sich immer über die Herkunft informieren oder bei Fleisch an der Packung erkennen, ob die Tiere in Massentierhaltung gehalten worden sind oder ob sie Freilauf hatten, genau wie bei Eiern.]PRO
+11 [Ein anderer wichtiger Punkt ist, dass man so Bauern und Schlachter aus verschiedenen Regionen unterstützt, wenn man die Produkte frisch kauft.]PRO
+12 [Die Biohaltung wird somit auch gestärkt, wenn man sich beim Kauf für Bio Ware entscheiden sollte.]PRO
+13 [Jedoch sprechen auch viele Argumente für das Kaufen und verzehren von Fast Food.]TH2
+14 [Denn man spart sich viel Zeit]CON
+15 [und muss nicht selber Kochen, z.B wenn man einen anstrengenden Tag hatte und spät nach Hause kommt.]CON
+16 [Außerdem gibt man nicht so viel Geld aus,]CON
+17 [da Fast Food viel günstiger ist.]CON
+18 [Eine Pizza fertig zu kaufen ist viel günstiger als alle Zutaten zu besorgen die man dafür benötigt.]CON
+19 [Ein weiterer stützender Punkt ist, dass bei vielen Fertigprodukten trotzdem draufsteht das Vitamine und nur gute Zutaten enthalten sind.]CON
+20 [Wie z.B bei Pommes, da auf der Packung meist vermerkt ist, dass man sie in weniger Öl oder gar kein Öl zubereiten muss und so die guten Nährstoffe enthalten bleiben.]CON
+21 [Ich bin der Meinung man sollte frisch kochen,]ZTH
+22 [da es einerseits Spaß macht]PRO
+23 [und auf der anderen Seite auch noch gesund ist und alle wichtigen Nährstoffe enthalten bleiben.]FAZ
+24 [Ab und zu kann man auch Fast Food essen aber sollte überwiegend gesund kochen.]FAZ

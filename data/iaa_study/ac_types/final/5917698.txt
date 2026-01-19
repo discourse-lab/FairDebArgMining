@@ -1,0 +1,23 @@
+0 [Ich schreibe diese Erörterung über das Thema: Sollte Theaterunterricht für alle Schüler*innen ab der Jahrgangsstufe 7 verpflichtend einegführt werden?]GLD
+1 [Diese Frage wurde meiner Klasse gestellt.]AHG
+2 [Im folgenden Text werde ich Pro- und Kontraseiten erleutern und mit 3Pro- und 3Kontra Beispielen genauer befestigen.]GLD
+3 [Ab der Jahrgangsstufe 7 sollte Theaterunterricht verpflichtend eingeführt werden.]TH2
+4 [Man kann seine kreativen Fähigkeiten frein lauf lassen.]CON
+5 [Emma 7.KLasse ist sehr Kreative und kann im Theaterunterricht ihre Fähigkeiten freien lauf lassen.]CON
+6 [Im folgenden Text werde ich Pro- und Kontraseiten erleutern und mit 3Pro- und 3Kontra Beispielen genauer befestigen.]GLD
+7 [Theateruntericht sollte nicht ab Jahrgangsstufe 7 verpflichtend eingeführt werden.]TH1
+8 [Als Wahlpflicht einführen.]GLD
+9 [Julius 9.Klasse macht lieber Sport als zu Schauspielern]PRO
+10 [und ist sehr froh darüber, dass er als zweites Wahlpflichtfach Sport wählen konnte und nicht Theater.]PRO
+11 [Jeder hat andere Stärken.]PRO
+12 [Thure 10.Klasse ist nicht besonders gut im Schauspielern.]PRO
+13 [Er ist froh das Theater nicht als Pflichtfach eingeführt wurde,]PRO
+14 [weil seiner Aussage nach ihm jetzt bestimmt die Punkte für das Abitur fählen würden.]PRO
+15 [Ich bin der Meinung, dass Theaterunterricht nicht als Pflichtfach eingeführt werden sollte,]ZTH
+16 [da mich das Argument "Jeder hat andere Stärken" sehr überzeugt hat.]FAZ
+17 [Ich führe nochmal auf.]GLD
+18 [Das stärkste Pro- Argument: Im folgenden Text werde ich Pro- und Kontraseiten erleutern und mit 3Pro- und 3Kontra Beispielen genauer befestigen.]FAZ
+19 [Das stärkste kontra- Argument: Jeder hat andere Stärken.]FAZ
+20 [Thure 10.Klasse ist nicht besonders gut im Schauspielern.]FAZ
+21 [Er ist froh das Theater nicht als Pflichtfach eingeführt wurde, weil seiner Aussage nach ihm jetzt bestimmt die Punkte für das Abitur fählen würden.]FAZ
+22 [Ich empfehle ihnen Theaterunterricht als Wahlpflichtfach anzubieten, aber nicht als Pflichtfach einzuführen.]FAZ

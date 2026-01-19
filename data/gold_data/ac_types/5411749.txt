@@ -1,0 +1,24 @@
+0 [Wir hatten ein Schulprojekt welches von gesunder Ernährung handelte, dies fand ich sehr spannend]AHG
+1 [und möchte mich nun mit den jeweils positiven Aspekten von selbst zubereitetem Essen und Fast food auseinandertsetzen.]GLD
+2 <SELBERKOCHEN IST BESSER ALS FASTFOOD>TH1
+3 [Auf der einen Seite denke ich , dass das selbst zubereitete Essen wohlmöglich länger dauern könnte]CON
+4 [aber auch viel gesünder als Fast Food ist.]PRO
+5 [Bei selbst zubereitetem Essen nutzt man frische Zutaten]PRO
+6 [wie beispielsweise Obst oder Gemüse vom Wochenmarkt.]PRO
+7 [Das Selbstzubereiten mag vielleicht länger dauern]CON
+8 [jedoch kann es auch Spaß machen]PRO
+9 [und am Ende ist man stolz auf sich und sein selbstgemachtes gelungenes Gericht.]PRO
+10 [Außerdem lernt man so den Umgang mit Lebensmitteln oder auch mit Küchengeräten wie besipielsweise Messern, Herd, Ofen etc.]PRO
+11 [Dies ist auch ein Vorteil für das Erwachsenwerden]PRO
+12 [denn man ist dann in der Lage für sich selbst zu sorgen.]PRO
+13 [Dann gibt es auch noch Fast Food, viele Menschen verbinden damit stark fettiges und ungesundes Essen,]WHG
+14 [jedoch denke ich, dass Fast Food in gut eingeteilten Maßen vollkommn in Ordnung ist.]TH2
+15 [Das Zubereiten von Fast Food geht oft schnell]CON
+16 [und ist somit eine gute Lösung für Menschen, die beispielsweise lange arbeiten dann Nachause kommen]CON
+17 [und keine Kraft bzw. zu erschöpft sind um noch irgendetwas aufwendiges zu kochen.]CON
+18 [Am besten  ist aber die große Auswahl die es an Fast Food gibt.]CON
+19 [Man findet von Burger und Pizza bishin zu Nudelgerichten aber auch Salate alles.]CON
+20 [Ich bin der Meinung, dass beide Varianten vollkommen in Ordung sind]ZTH
+21 [jedoch sollte man beim Fast Food auf seinen Konsum achten.]FAZ
+22 [Außerdem hat nicht jede Person die Möglichkeit oder die Zeit frisch und selbst zu kochen.]FAZ
+23 [Jeder Mensch sollte für sich selbst entscheiden ob er selbst kocht oder zum Fast food greift.]FAZ

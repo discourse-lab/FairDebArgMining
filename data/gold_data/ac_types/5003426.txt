@@ -1,0 +1,34 @@
+0 [Hallo, freut mich dass Du auf diesen Artikel geklickt hast.]SON
+1 [In diesem Artikel wird es sich um die Fragestellung drehen ;;Sollen Bücher in der Schule vollständig durch E-Books ersetzt werden?'']GLD
+2 [Schülervertreter:innen meiner Schule haben vorgeschlagen, dass der gesamte Bücherbestand auf E-Books umgestellt werden soll.]AHG
+3 [Dies gab auf der Schulkonferenz zu Bedenken und daher habe ich entschlossen darüber einen Artikel zu schreiben um jeweils beide Seiten zu beleuchten.]AHG
+4 [Was haltet ihr davon? ]SON
+5 [Als Erstes setze ich mich mit der These auseinander, weshalb Bücher nicht von E-Books ersetzt werden sollten:]TH2
+6 [E-Books können ganz schön teuer sein]CON
+7 [und manche Familien können dies nicht ihren Kindern ermöglichen und könne sich das nicht leisten.]CON
+8 [Die Kinder wären dann ihren Mitschülern gegenüber benachteiligt.]CON
+9 [Außerdem gehören gedruckte Bücher zu unserem Kulturerbe dazu]CON
+10 [und sollten daher auch erhalten bleiben.]CON
+11 [Schließlich haben unsere Eltern damals auch mit Bücher gearbeiten.]CON
+12 [Warum wären E-Books jetzt aber angebrachter?]TH1
+13 [In E-Books können Textstellen unterstrichen bzw. markiert und auch danach wieder schnell und ohne Komplikationen entfernt werden.]PRO
+14 [Zudem können auf den Seiten Anmerkungen gemacht werden.]PRO
+15 [In einem Bücher wäre das nicht gerade vorteilhaft.]PRO
+16 [Bücher muss man zudem ständig neu kaufen, wenn der Unterrichtsstoff behandelt und beendet wurde.]PRO
+17 [Ein E-Book nicht.]PRO
+18 [Somit wäre es auch preisgünstiger für die, die dabei eventuell auch Bedenken hatten.]PRO
+19 [Um den gesundheitlichen Aspekt zu beleuchten: E-Books sind viel handlicher als ein normales Schulbuch]PRO
+20 [und erleichtert auch somit einen ganzen Schulrucksack.]PRO
+21 [Somit müssen nicht immer pro Tag ca. 3-4 Bücher in die Schule mitgeschleppt werden.]PRO
+22 [Ganz zu schweigen von den Heftern und Arbeitsheften die auch zur Schule gebracht müssen.]PRO
+23 [Man kann überall darauf zurück greifen]PRO
+24 [und es ist mal nicht so schlimm, wenn man es zuhause vergessen hat,]PRO
+25 [da man über das Internet darauf zurückgreifen kann.]PRO
+26 [Meiner persönlichen Meinung nach finde ich es auch besser E-Books in der Schule zu benutzen.]ZTH
+27 [Sie sind viel handlicher]PRO
+28 [und die Schule wird auch immer mehr digitalisiert gestalten.]PRO
+29 [Generell werden jeden tag technische Fortschritte auf der ganzen Welt gemacht]PRO
+30 [und daher muss es auch Veränderungen in der Digitalisierung geben. Egal ob jetzt oder später.]PRO
+31 [Es werden wahrscheinlich nicht immer Bücher benutzt werden]PRO
+32 [und daher finde ich wir sollten uns der Digitalisierung auch anpassen.]PRO
+33 [Was ist eure Meinung dazu? Schreibt mir gerne!!!]SON

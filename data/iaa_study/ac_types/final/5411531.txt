@@ -1,0 +1,35 @@
+0 [Gesunde Ernährung an Schulen ?]GLD
+1 [In der heutigen Erörterung will ich über das Thema Ernährung an Schulen Diskutieren, da es in unserer Schule grade ein großer streitpunkt ist und auch ich mich für dieses Thema Intressiere.]GLD
+2 [Zudem vorfolgt eine Zeitschrieft das geschehen an unsere Schule was mich zusätzlich motivietrt diese Erörterung zu Schreiben.]AHG
+3 [In den letzten Jahren ist die Ernährung ein immer wichtigerer bestandteil von unsere Leben geworden, dies macht sich jetzt auch an den Schulen bemerkbar.]WHG
+4 [Gesunde Ernährung heißt für mich nicht nur Salat und ab und zu auch mal gutes Fleisch sonderen auch das man sich Ausgewogen ernährt und auch zuhause ebenfalls auf seine Ernährung achtet.]WHG
+5 [Es gibt auch gegner vom Gesunden essen an den Schulen, in dieser Erörterung will ich ihnen beide Seiten vorstellen damit sie sich ein gutes bild machen können.]GLD
+6 [Gesunde Ernährung ist wichtig für Kinder an den Schulen.]TH1
+7 [Denn bei einer ausgewogenen Ernährung können sich Schuler besser konzentrieren]PRO
+8 [und länger dem Unterricht folgen.]PRO
+9 [Dies zeigt eine Studie an der Conrad Schule in Berlin, dort hat sich die hälfte der Kinder ausgewogener als der andere Teil ernährt.]PRO
+10 [Das Ergebnis war das die Kinder die sich ausgewogen ernährt haben Leiser und besser gearbeitet haben,]PRO
+11 [die Lehrer fanden die Arbeits Atmosphäse deutlich angenehmer als bei der hälfte die sich nicht sich ausgewogen ernährt hat.]PRO
+12 [Ein weiters Argument ist das Schüler besser den Schulstoff verarbeiten können]PRO
+13 [da ihr Gehirn mehr Leistung bringen kann.]PRO
+14 [Das zeigt ein Experiment an der Uni für Ernährung in Bayern, dort haben Studenten die sich gesund ernährt haben im Durchschnitt bessere Leistungen gebrauch als die, die nicht auf ihre Ernährung geachtet haben.]PRO
+15 [Ein weiterer Punkt ist das Kinder vorallem im Alter der Pupatät in so fern sie sich gesund Ernähren nicht so viele Probleme mit Wachstumsschmerzen haben,]PRO
+16 [diese erfahrung habe ich gemacht und auch viele meiner mit Schüler.]PRO
+17 [Wir haben gemerkt das wir weniger probleme haben in so fern wir uns gesund Ernähren.]PRO
+18 [Die Gesunde ern ährung ist nicht sinnvoll.]TH2
+19 [Es verschändet Geld]CON
+20 [da die Gesundeernährung teurer ist als ein normeals Schul Essen.]CON
+21 [Das Geld kann man in andern bereichen wie zumbeispiel der Modernisierung der Schulen viel besser investieren.]CON
+22 [Diese These stützt das eine Studie gezeigt hat das Gesundes Essen ca. 50% Teurer ist ein essen was 4 Euro kostet kostet nun 6 was in der masse sehr viel ist.]CON
+23 [Wen eine Schule 500 Schüler hat zahlt sie 1000 Euro mehr pro tag.]CON
+24 [Ein weiterer punkt ist das der mehr wert von Gesundem und Ausgewogenem Essen zwar dar ist aber nicht so groß ist als das sich das auf dauer lohnen würde.]CON
+25 [Das beweißt das der mehr wert von zum beispiel neuen Computern die Schneller und einfacher zu Bedienen sind deutlich größer]CON
+26 [weil die Schuler viel Schneller und einfacher Lernen können.]CON
+27 [Zudem haben Schüler dann nicht mehr die freiheit selber zu entscheiden was sie Essen wollen, was für manche ein Problem darstellt]CON
+28 [da sie auf ihre Ernährung keinen wert legen wollen.]CON
+29 [Das zeigt eine Umfrage die in Köln gemacht wurde nur etwa 64% der befragten achten auf ihre Ernährung dies ist in etwa 2/3 der Schüler]CON
+30 [Meine meinung ist das wen Eltern ihre Kinder gesünder Ernähren wollen einen zusatz an die Schule zahlen müssen um das Essensgeld auf zu wiegen]FAZ
+31 [Es gibt sowohl Argument die dafür sprechen, als auch Argumente die dagegen Sp rechen.]FAZ
+32 [Man muss seber entscheiden ob man einen wert auf Gesunde ernährueng legt.]ZTH
+33 [Wen man dies tut hat das Kind auf jeden fall einen Mehrwert davon.]FAZ
+34 [Es ist keine Gled verschwendung ist aber auch nicht notwendig]FAZ

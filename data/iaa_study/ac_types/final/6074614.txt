@@ -1,0 +1,36 @@
+0 [Soll das Fach Darstellendes Spiel als reguleres Fach in der 7. Klasse eingeführt werden?]GLD
+1 [Das Fach Darstellendes Spiel behinhaltet das Schauspielern, sowie die interpretation in verschiedenen Rollen auf der Bühne.]WHG
+2 [Dennoch gibt es Meinungsverschiedenheiten ob dieses FAch als Verpflichtendes Fach für den Jahrgang 7 eingeführt werden sollte.]WHG
+3 [Die Entwicklung wird durch das Ach mehr gefördert.]WHG
+4 <DS SOLL VERPFLICHTEND EINGEFÜHRT WERDEN.>TH1
+5 [Durch das Schauspielern vor einer Klasse lernen die SchülerInnen vor mehreren Leuten zu reden]PRO
+6 [und Entwickeln eine eigene Vortragsweise.]PRO
+7 [Sie lernen mit der Aufregung und dem Druck umzugehen.]PRO
+8 [Indem sie diesen Vorgang jede Woche wiederholen und neue Aufgaben bekommen.]PRO
+9 [Ein Mädchen was vorher in einem Angstzustand vor einem Vortrag war, lernt in diesem FAch mit ihrer Nervosität umzugehen.]PRO
+10 [Die Vortragsweise wird in diesem FAch geübt, was eine gute Vorbewreitung für das weitrere Leben darstellt.]PRO
+11 [Hier werden die Mimik und Gestik eine große Rolle spielen.]PRO
+12 [Man wird unterschiedliche Rollen bekommen an die man sicch anpassen muss.]PRO
+13 [Für eine Zukünftige Bewerbung an seiner Traum Uni ider seinem Traum Job, wird die Vortragsweise ebntscheident sein.]PRO
+14 [Die SchülerInnen werden so auf die 11. Klasse vorbereitet.]PRO
+15 [Wenn sie im 7. Jahrgang auf die Oberstufe vorbereitet werden, haben sie bessere Vorraussetzungen diesen Kurz in der Sek2 besser zu meistern.]PRO
+16 [Daqsheißt die SchülerInnen können ihre Prioritäten auf die anderen Fächer richten,m]PRO
+17 [weil sie mit dem DArstellenden Spiel schon vertraut sind.]PRO
+18 <DS SOLL NICHT VERPFLICHTEND EINGEFÜHRT WERDEN.>TH2
+19 [Die SchülerInnen können den Unrerricht als "Sinnlos" ansehen]CON
+20 [und das Darstellende Spiek wird nichtmehr ewrnst genommen.]CON
+21 [Das Fach könnte als Lächerlich abgestempelt werden]CON
+22 [und so wäre es eine Zeitverschwendung für alle.]CON
+23 [Viele von den SchülerInnen werden sich nicht wohl beim Schauspielern und oder auf der Bühne fühlen.]CON
+24 [Sie können sich persönnlich angegrifffen fühlen bei einer schlechten Punkte Wertung]CON
+25 [und können Angst vor dem Fach entwickeln.]CON
+26 [Die SchülerInnen werden moral den Auftritt auf der Bühne verweigern]CON
+27 [und sich von der beteilung des Unterrichtes zurückziehen.]CON
+28 [Das Fach wird weitere Stunden in anspruch nehmen.]CON
+29 [Die SchühlerInnen haben jetzt ein noch höheres Pensum]CON
+30 [was bedeutet das sie eine noch höhere Stundenanzahl in der Schule verbringen.]CON
+31 [Dadurch könnte das Fch als überflüssig gelten.]CON
+32 [Das Fach Darstellendes Spiel sollte meiner Meinung nach nur eine Stunde in der Woche beanspruchen.]ZTH
+33 [So wird die Vortragsweise weiter entwickelt und es nimmt nicht an zu viekl Pensum an.]FAZ
+34 [Es gibt unterschiedliche Argumente die für und gegen eine Einführung sprechen.]FAZ
+35 [Die Vortragsweise wird weiterentwickelt dennoch wird es für mehrere SchülerInnen eine Überwindung und in gewissermaßen eine Angst vor dem FAch darstellen.]FAZ

@@ -1,0 +1,45 @@
+0 [In den letzten Jahren kam öfter die Idee auf, das Fach Darstellendes Spiel für 7. Klassen verpflicchtend einzuführen.]WHG
+1 [Ich bin jetzt, nach dem ich seit bereits fast 2 Jahren nicht mehr die 7. Klasse besuche, auch auf dieses Konzept gestoßen und es hat mich zum Nachdenken angeregt, da ich einerseits gerne Theaterspiele und auch eine gewisse Logik hinter dem Vorschlag sehe, aber eben auch die Argumente der Kontraseite durchaus nachvollziehbar und plausibel finde.]AHG
+2 [In diesem Text möchte ich euch an meinem Prozess der Argumentesammlung und Darstellung, um am Ende eine rationale Meinung zu finden, teilhaben lassen.]GLD
+3 [Ich hoffe, dass das Thema euch zum Denken anregt und ihr vielleicht auch mal eine andere Sicht auf die Dinge bekommt, falls ihr bereits eine festgefahrende Meinung habt.]GLD
+4 <DS SOLLTE NICHT ALS UNTERRICHTSFACH EINGEFÜHRT WERDEN>TH2
+5 [Fangen wir damit an, dass viele Schulen gar nicht die Möglichkeit haben, Siebtklässlern Theater-Lehrer zur Verfügung zu stellen.]CON
+6 [Es gibt in vielen Stellen von Deutschland ohnehin einen großen Lehrermangel,]CON
+7 [ein zusätzliches Fach macht diesen nicht besser.]CON
+8 [Zusätzlich íst der Unterricht zudem auch für die Kinder, die oft trotz ihrem jungen Alter sowieso schon an psychischen Problemen, auch aufgrund von Stress und Leistungsdruck leiden.]CON
+9 [Diese extra Wochenstunden wären kaum zu verantworten!]CON
+10 [Psychisch ist das auch vorallem anstrengend für die Kinder mit Redeangst oder ähnlichen Sypmtomatiken.]CON
+11 [Oft reicht schon, ein wenig schüchtern zu sein, um eine riesige Angst vor dem Vorsprechen zu entwickeln.]CON
+12 [Kultur soll Spaß machen]CON
+13 [und kein Mittel sein, um Kinder durch ihre größten Ängste zu zwingen!]CON
+14 [Dazu kommt, dass Theater auch einach unnötig ist.]CON
+15 [Nicht nur gibt es von vornhinein Tendenzen bezüglich der Begabung, was eine Benotung erschwert,]CON
+16 [sondern ist es für Theaterkinder eben auch schön, solch ein Hobby für sich zu haben und nicht die ganze Klasse, von der ein großer Teil eh keine Lust oder sogar Angst hat, als Pflicht mit zum Theater zu nehmen.]CON
+17 [Kultur sollte individuell sein,]CON
+18 [deswegen macht es wenig Sinn, jeden dazu zu Zwingen,]CON
+19 [es bringt nur jede menge Hass gegen das Fach, von allen Seiten!]CON
+20 <DS SOLLTE ALS UNTERRICHTSFACH EINGEFÜHRT WERDEN>TH1
+21 [Jedoch ist Theaterspielen auch eine sehr produktive Erholung, die in der Regel sogar gern gesehen wird.]PRO
+22 [Man arbeitet nicht so sehr mit seinem Gehirn wie zum Beispiel in Mathe,]PRO
+23 [beansprucht aber auch seinen Körper nicht so sehr wie in Sport.]PRO
+24 [Theater ist eine gute Mischung, die zur Erholung abseits von Handy und PC beitragen kann.]PRO
+25 [Zensuren müssen ja nicht zwingend gegeben werden,]PRO
+26 [da DS als Neigungsfach eingestuft werden kann.]PRO
+27 [Diese Neigungen eben sind auch Teil meines nächsten Argumentes, denn jedes Kind sollte in der Schule die Möglichkeit haben, seine Stärken und Intereswsen auszuleben.]PRO
+28 [In DS hätten direkt mehrere Interessenfelder die Möglichkeit, ausgeebt zu werden.]PRO
+29 [Sprachlich werden viele Fähigkeite benutzt und trainiert,]PRO
+30 [kreativ kann man sich ausleben,]PRO
+31 [zum Beispiel mit Mimik, Bühnenbildern oder Skripten.]PRO
+32 [Bei Dingen wie Schwertkampf oder Tanz sind körperliche Stärken gefragt und vieles mehr!]PRO
+33 [Zudem muss man durchaus zugeben, dass Theaterspielen einen durchaus positiven Effekt auf Rhetorik, Mimik und andere sprachlich-soziale Kompetenzen hat.]PRO
+34 [Diese Fähigkeiten bringen den Mensch nicht nur im Theater weiter,]PRO
+35 [sondern auch beispielsweise bei Bewerbungsgesprächen.]PRO
+36 [Es wäre ein gutes, einheitliches Training, was eventuell die Chancengleichheit erhöht,]PRO
+37 [da nicht nur einkommensstarke Haushalte ihre Kinder zum Stimm-/Sprechtraining schicken,]PRO
+38 [sondern eben alle Kinder grndlegende Kompetenzen in diesen Bereichen besitzen.]PRO
+39 [Abschließend kann ich sagen, dass ich weiterhin Beführworter des DS-Unterrichts bin,]ZTH
+40 [da ich denke, dass dort viele Kinder aufblühen können, ganz egal ob sie sich so vorher selber eingeschätzt hätten oder nicht.]FAZ
+41 [Für mich wurden den Contra-Argumenten genug Pro-Argumente entgegengestellt und ich bin fest davon überzeugt, dass ein DS-Fach einige Probleme lösen kann und definitiv vielen Schülern eine ganze Menge, auf spielerische Art und Weise beibringt.]FAZ
+42 [Ein geregelter Übergang wäre natürlich wünschenswert, so das die Schulen nicht von heute auf Morgen massenhaft DS -Lehrer brauchen.]FAZ
+43 [Über den Sinn einer Benotung in diesem Fach müsste an anderer Stelle noch einmal dikutiert werden, vorerst halte ich sie aber für unnötig. ]FAZ
+44 [Daher empfehle ich einen unzensierten Theaterkurs in der 7.Klasse! ]FAZ

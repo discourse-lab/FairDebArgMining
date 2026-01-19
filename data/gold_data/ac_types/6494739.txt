@@ -1,0 +1,26 @@
+0 [Als ich mit meiner Klasse letzte Woche einen Wandertag veranstaltet habe und wir dabei Zeugen eines Rettungseinsatzes der freiwilligen Feuerwehr geworden sind, haben wir uns alle danach noch sehr lange darüber unterhalten.]AHG
+1 [Wir haben uns die Frage gestellt, ob man ein Ehrenamt (wie eben dieses der freiwilligen Feuerwehr zum Beispiel) ausüben sollte.]AHG
+2 [Doch was heißt eigentlich "ehrenamtlich"?]GLD
+3 [Damit ist gemeint, dass man in seiner Freizeit arbeitet ohne dafür bezahlt zu werden. Beispielsweise auch im Sport, im Gesundheitswesen, im Naturschutz oder bei der Kinderbetreuung.]WHG
+4 [Sollte soetwas Pflicht werden?]GLD
+5 [Ja, man sollte ein Ehrenamt ausüben.]TH1
+6 [Ehrenamtliche Helfer können darauf stolz sein etwas zur Gesellschaft beizutragen.]PRO
+7 [Ein ehrenamtlichenr Beruf kann auch dazu da sein, wenn man sich noch nicht sicher ist, was man später einmal werden möchte und erstmal ausprobieren möchte.]PRO
+8 [Für Leute, die z.B. in ihrer Freizeit nicht wissen, was sie machen sollen ist dies gut.]PRO
+9 [So können sie in ihrer Freizeit etwas machen, was ihnen Spaß]PRO
+10 [macht und tragen gleichzeitig auch noch etwas Gutes zur Gesellschaft bei.]PRO
+11 [Einer meiner Freundinnen z.B. hilft regelmäßig ehrenamtlich im Gesundheitswesen aus.]PRO
+12 [Sie mag ihre Arbeit sehr]PRO
+13 [und findet es auch nicht schlimm, dass sie nicht bezahlt wird.]PRO
+14 [Sie hat ihren Spaß dabei]PRO
+15 [and macht andere auch noch glücklich.]PRO
+16 [EHRENAMTLICHE ARBEIT SOLLTE KEINE PFLICHT SEIN.]TH2
+17 [Diejenigen, die dagegen sind fragen sich wahrscheinlich, warum sie ehrenamtlich arbeiten sollten, da man für seine Arbeit nicht mal bezahlt wird.]CON
+18 [Für manche Leute, die das Geld wirklich brauchen, ist so eine ehrenamtliche Arbeit nicht das Richtige.]CON
+19 [Daher sollten sie sich eine Arbeit suchen, für die sie auch bezahlt werden.]CON
+20 [Ich persönlich würde sehr gerne einen ehrenamtlichen Beruf ausüben wollen in meiner Freizeit, da ich einfach gerne anderen helfe und unterstütze.]PRO
+21 [Ich finde es schön, wenn andere Menschen sich gegenseitig unterstützen.]PRO
+22 [Abschließend kann man sagen, dass die Pro-Argumente für eine Pflicht zur ehrenamtlichen Arbeit überwiegen.]ZTH
+23 [Würden viele Menschen so denken, wie die ehrenamtlichen Helfer, gäbe es mehr Freiwillige und jeder würde jedem helfen.]FAZ
+24 [Diese Vorstellung finde ich sehr schön.]FAZ
+25 [Jedoch hat da jeder seine eigene Meinung, weshalb ich euch empfehle, für euch selbst zu entscheiden, ob ihr einen ehrenamtlichen Beruf ausüben wollt oder nicht.]FAZ

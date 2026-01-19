@@ -1,0 +1,22 @@
+0 [In diesem Text wird das Thema: " Sollte man ein Ehrenamt ausüben" erörtert.]GLD
+1 [In einer Schulklasse wurde das Thema, ob und warum man ein Ehrenamt ausüben sollte diskutiert.]AHG
+2 [in diesem Eröterungstext, werden die Pro/Kontra Argumente aufgezeigt.]GLD
+3 [Die These, die für die Argumente stimmt, die sagen das man ein Ehrenamt ausführen sollte lautet: "Man kann anderen Menschen helfen".]TH1
+4 [Das erste Argument, dass diese These bestätigt besagt, dass man in einem Ehrenamt Personen helfen kann,]PRO
+5 [die zum Beispiel zu wenig Geld besitzen, um sich bezahlte hilfe zu leisten.]PRO
+6 [Das nächste Pro-Argument sagt, dass man Menschen helfen kann,]PRO
+7 [da es vielleicht Spaß macht oder Freude bringt.]PRO
+8 [Das letzte Argument, dass die Ausführung eines Ehrenamtes befürwortet besagt, dass man sich auch zum Beispiel in ehrenamtlichen Oragnisationen engagieren kann]PRO
+9 [und dort mit anderen zusammenarbeiten kann.]PRO
+10 [Nun werden die Argumente beschrieben, die gegen das Ausführen eines Ehrenamtes sind.]GLD
+11 [Die Kontra-These sagt, dass es sich nicht lohnt ein Ehrenamt auszuüben,]TH2
+12 [da man weder Geld noch einen Lohn in anderer Form erhält.]CON
+13 [Das erste Argument, dass diese These stützt beschreibt, dass man in einem Ehrenamt viel eigene zeit investiert]CON
+14 [aber keinen Lohn dafür erhält.]CON
+15 [Zusätzlich wird das Argument durch das Beispiel als ehrenamtlicher Parkarbeiter, der viel Zeit und Kraft investiert gestützt.]CON
+16 [Das nächste Kontra-Argument besagt, dass ein Ehrenamt eine zusätzliche Belastung neben dem normalen Schul-oder Arbeitsalltag sei.]CON
+17 [Das letzte Argument sagt, dass ein Ehrenamt Zeitverschwendung sei,]CON
+18 [da man viel investiere zum Beispiel Kraft, Zeit und Energie]CON
+19 [aber nichts zurückbekomme.]CON
+20 [Meine persönliche Meinung zu diesem Thema ist, dass es jeder Person freistehen sollte, ob sie ein Ehrenamt ausüben möchte oder nicht.]ZTH
+21 [Mein Fazit zu diesem Thema ist, dass es sehr viele Meinungen und anschauungen zu diesem Thema gibt, und das es unmöglich ist, eine Antwort auf diese Frage zu finden.]FAZ

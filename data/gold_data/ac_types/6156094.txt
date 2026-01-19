@@ -1,0 +1,34 @@
+0 [Ich bin jetzt in der 9. Klasse und kann mir für das nächste Jahr ein neues Schwerpunktfach aussuchen.]AHG
+1 [Unteranderen steht als Auswahl möglichkeit Darstellendes Spiel zu verfügung.]AHG
+2 [Darstellendes Spiel kann man sich so ähnlich wie eine Theater AG vorstellen.]WHG
+3 [Da das Fach an den meisten Schulen sehr beliebt ist, wird in einigen Bundesländern diskutiert ob dieses fester Bestandteil des Unterricht ab der 7. Klasse werden sollte.]WHG
+4 <DS SOLLTE ALS UNTERRICHTSFACH EINGEFÜHRT WERDEN>TH2
+5 [Dafür spricht definitiv das viele Übungen hilfreich für das spätere Leben sein werden.]CON
+6 [Man lernt wie man sich in stressigen Situation zuverhalten hat]CON
+7 [und wie man das ganze sinnvoll organisiert.]CON
+8 [Außerdem hilft es enorm in seiner Klasse ein stärkeres Gemeinschaftgefühl aufzubauen.]CON
+9 [Es stärkt zum Beispiel das Selbstbewusstsein.]CON
+10 [Ihr kennt das bestimmt, ihr habt an einem Tag Mathe, Deutsch und Physik und anstelle das ihr im letzten Block noch ein aufwendiges Fach wie zum Beispiel Bio habt, bekommt ihr ein eher entspanntes Fach wie DS zugeteilt.]CON
+11 [Dieses kann einen extremen gegenpol zum normalen Alltag leisten, es lockert den Stress auf, den ihr über den ganzen Tag gesammelt habt.]CON
+12 [Viele Erwachsene meinen ja immer, dass sich die jungen Leute ja nicht mehr für die Kultur des Theaters interresieren.]CON
+13 [Durch die Verpflichtung des Darstellendes Spieles können die Schüler*innen neue Interresen auf dem Themengebiet entwickeln.]CON
+14 <DS SOLLTE NICHT ALS UNTERRICHTSFACH EINGEFÜHRT WERDEN>TH1
+15 [Gegen die Einführung des verpflichtenden Faches DS spricht zum Beispiel die Bewertung.]PRO
+16 [Genau wie in den Fächern Musik, Kunst und Sport ist es schwer hier den genauen Grad der Beurteilung zu finden.]PRO
+17 [Hier könnte ein Problem sein das die Lehrer Schulisches mit zwischem Menschlichen vermischen.]PRO
+18 [Ein weiterer Grund zum wiedersprechen kann auch die Ausgrenzung unter den Kindern sein.]PRO
+19 [Hier ist ein simples Beispiel: Peter stottert, er muss die Hauptrolle in einem Theaterstück spielen, dieses wird vor der ganzen Schule vorgetragen.]PRO
+20 [Aufgrund seines Sprachfehlers wird er nach dem Theaterstück ausgeschlossen.]PRO
+21 [Was ich besonders in meinem Alltag merke ist der Druck der Schule,]PRO
+22 [wenn mir jetzt noch ein zusätzliches Fach aufgezwungen wird, in einem Gebiet wo bei mir sowieso keine Interresse besteht, würde ich kaum noch Freizeit haben.]PRO
+23 [So geht es nicht nur mir sondern auchvielen anderen Schüler*innen.]PRO
+24 [Ich würde mich definitiv gegen die Einführung des Faches Darstellendes Spiel aussprechen.]ZTH
+25 [Hierbei ist der größte Aspekt die mögliche Ausgrenzung, sowie der hohe Druck von Außen.]FAZ
+26 [Außderdem liegen meine Interresen nicht aufdem Themenfeld Schauspielerei.]FAZ
+27 [Auf beiden Seiten gab es sehr gute Argumente.]FAZ
+28 [Besonders für die Einführung des neuen Pflichtfaches spricht der Stoff den man ins spätere Leben mitnehmen kann.]FAZ
+29 [Viele Übungen können hier sinnvoll sein.]FAZ
+30 [Dagegen Spricht zum Beispiel der Aspekt der Bewertung.]FAZ
+31 [Was soll in dem Fach genau bewertet werden und wie?]FAZ
+32 [Ich kann euch nur mit auf den Weg geben, wählt das was euch Interresiet und womit ihr im späteren Leben was anfangen könnt.]FAZ
+33 [Schreibt mir gerne was von dem Vorschlag haltet.]SON

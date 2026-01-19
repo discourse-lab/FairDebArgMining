@@ -1,0 +1,30 @@
+0 [Ist es das stehen am Herd mit frischen Zutaten wert oder sollte man sich lieber fastfood zum sättigen anschaffen?]GLD
+1 [Ich debattiere um meine persönliche Meinung  zu diesem Thema, denn ich bin auf der Seite des frischen Essens.]AHG
+2 [Ich finde man sollte so fern möglich immer frischgekochtes bzw. selbstgekochtes Essen zu sich nehmen.]ZTH
+3 [Grund dafür ist an erster Stelle aus gesundheitlichen Gründen,]PRO
+4 [denn wer viel mehr frischgekochtes und vielfältiges isst hat ganz klar eine reichere Nährstoffsquelle.]PRO
+5 [Ein wenig Gemüse kaufen und sich damit eine Gemüse Suppe kaufen ist aufjedenfall gesünder als ein Menü, in einem Fastfood Restaurant, zu verspeise,]PRO
+6 [indem viele Chemikalien enthalten simd welche möglicherweise giftig sind.]PRO
+7 [Ein weiteres argument sich dem frischen Essen zu witmen bestätigt sich durch den Fakt, dass Nährstoffreiche Lebensmittel länger sättigen als fettige Gerichte,]PRO
+8 [die höchstens nur zum Genießen da sind aber nicht einmal eine lange weile satt halten.]PRO
+9 [Ein beispiel dafür ist das essen bei Beispielsweise McDonalds:]PRO
+10 [natürlich ist jeder Körper anders]CON
+11 [aber laut den meisten Erfahrungen hält ein Menü mit einem Burger, etwas Pommes dazu und ein Softgetränk nicht länger als mindestens eine Stunde satt.]PRO
+12 [Danach könnte der Appetit wieder steigen ,]PRO
+13 [augrund der Chlorestin Steigerung wegen den Süßgetränken und den Inhalten im Essen.]PRO
+14 [Hingegen zu einem Teller voller grüngemüse, Kartoffeln und villeicht noch etwas Ei dazu  welcher bis zu zwei Stunden satt halten kann.]PRO
+15 [Zudem kosten auch die Zutaten für ein gesundes bzw. selbstgekochtes Gericht nicht so viel wie viele behaupten!]PRO
+16 [Ganz im Gegenteil, der Preis für die gekauften Zutaten entspricht meistens so viel wie wenn man sich Fertigessen holt.]PRO
+17 [Als Vorteil dazu hat man villeicht noch was übrig.]PRO
+18 [Damit kann man dann für andere Delikatessen kochen und somit hat man sich essen für einen ganzen Tag oder auch zwei Tage gekauft als wenn man eine hohe Summe nur für eine Mahlzeit ausgibt, die einen den Appetit, nach einer kleinen Weile, wieder steigt.]PRO
+19 [Man sollte auf Fertigessen lieber verzichten wenn es nicht nötig ist.]ZTH
+20 [Es gab schon viele Vorfälle in denen es vorkam, das es Vergiftungen bei Menschen gab, die sich öfters bis viel von Fastfood ernährten.]PRO
+21 [Diese vergiftungen sahen unterschiedlich aus.]WHG
+22 ['Nur' vom Übergeben oder bauchschmerzen bis hinzu Krankenhaus Fällen. ]PRO
+23 [Sie alle haben was gemeinsam: ]PRO
+24 [dieses schnell zubereitete Essen mit den ungesündesten Inhaltsstoffen überhaupt belastet die Gesundheit der Menschen.]PRO
+25 [Ich speche aus eigener Erfahrung wenn es auf die Bauchschmerzen und das Hängen über die Kloschüssel ankommt.]PRO
+26 [Was auch mit der Gesundheit in Verbindung steht muss nicht immer nur die Inhaltsstoffe betreffen.]PRO
+27 [Schmutz, Bakterien, kleine Vicher und alles was auf einen unhygenem Boden nur liegen kann, könnte in das Essen des Restaurants gelangen]PRO
+28 [indem es als häufiges Beispiel auf den Boden fällt und nicht gewechselt wird.]PRO
+29 [Selbst ich habe schon Mäuse und andere Tiere auf dem Boden, in mehreren Fastfood Ketten, entdeckt.]PRO

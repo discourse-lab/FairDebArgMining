@@ -1,0 +1,21 @@
+0 [Ehrenamtliche Arbeit- unbezahlte Zeitverschwendung oder gesellschafliche Ehrenleistung?]GLD
+1 [In unserer Klasse diskutierten wir am letzten Montag über den Sinn eines Ehrenamtes.]AHG
+2 [Dabei gab es viele verschiedene Meinungsansätze, die uns schlussendlich zur Fragestellung führten: Sollte man ein Ehrenamt ausführen?]AHG
+3 [These: "Ich bin stolz daruf, dass ich etwas für die Gesellschaft leiste."]TH1
+4 [Das gute Gewissen übertrifft den Glanz des Lohns bzw. Gehalts.]PRO
+5 [Das ist die Hauptaussage der meisten ehrenamtlichen Arbeitskräfte.]PRO
+6 [Für viele Menschen ist es eine Genugtuung ihre verrichtete Arbeit im Verhältnis mit Verbesserungen, Fortschritten und Unterstützung der Gesellschaft zu sehen.]PRO
+7 [Das Bedürfnis, einen Eigennutzen daraus zu ziehen, verspüren sie nicht.]PRO
+8 [Außerdem ist die Gesellschaft auf ehrenamliche Arbeitskräfte angewiesen,]PRO
+9 [da sie an der Zahl "knapp werden"]PRO
+10 ["Ich mache doch nicht die Arbeit, für die andere bezahlt werden!" lautet die Gegenthese dazu.]TH2
+11 [Der ethische Aspekt liegt darin inwiedern eine faire Verteillung der Arbeit und des damit verbundenen Lohns zustande kommen soll, wenn Arbeiter*innen für ein und denselben Job unterschiedliche Gehälter entgegennehmen bzw. einige keinen Lohn erhalten.]CON
+12 [Dazu kommt, dass viele Menschen schlicht weg keine freie Zeit für einen zweiten Job finden.]CON
+13 [Sie sind in vielen Fällen bereits von einem Hauptjob mit Arbeit abgespeist]CON
+14 [und finden entweder keine nötige Energie]CON
+15 [oder ihnen fehlt, die dafür notwendige Zeit.]CON
+16 [Somit ist schon einmal ein Großteil der Bevölkerung für ein Ehrenamt ungeeignet.]CON
+17 [Ich bin der Meinung, dass Ehrenämter attraktivere Angebote vorbehalten sollten, z.b. bestimmte gesonderte Propositionen wie bspw. günstigere Fahrttickets für Öffentlichen Transport etc.]FAZ
+18 [Letztendlich stellen wir fest: Man sollte jedem Individuum eine freie Entscheidungund Einstellung bezüglich des Themas "ehrenamtliche Arbeit - ja oder nein?" lassen.]ZTH
+19 [Es gibt schließlich für beide Entscheidungen nachvollziebare Gründe.]FAZ
+20 [Fakt ist aber, dass ehrenamtliche Mitarbeiter stark an Anzahl abnehmen und demzufolge dringend benötigt werden.]FAZ

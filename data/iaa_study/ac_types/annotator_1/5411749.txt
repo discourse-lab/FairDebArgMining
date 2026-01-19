@@ -1,0 +1,26 @@
+[Wir hatten ein Schulprojekt welches von gesunder Ernährung handelte,]AHG
+[dies fand ich sehr spannend]AHG
+[und möchte mich nun mit den jeweils positiven Aspekten von selbst zubereitetem Essen und Fast food auseinandertsetzen.]GLD
+[Auf der einen Seite denke ich , dass das selbst zubereitete Essen wohlmöglich länger dauern könnte]CON
+[aber auch viel gesünder als Fast Food ist.]PRO
+[Bei selbst zubereitetem Essen nutzt man frische Zutaten]PRO
+[wie beispielsweise Obst oder Gemüse vom Wochenmarkt.]PRO
+[Das Selbstzubereiten mag vielleicht länger dauern]CON
+[jedoch kann es auch Spaß machen]PRO
+[und am Ende ist man stolz auf sich und sein selbstgemachtes gelungenes Gericht.]PRO
+[Außerdem lernt man so den Umgang mit Lebensmitteln oder auch mit Küchengeräten wie besipielsweise Messern, Herd, Ofen etc.]PRO
+[Dies ist auch ein Vorteil für das Erwachsenwerden]PRO
+[denn man ist dann in der Lage für sich selbst zu sorgen.]PRO
+[Dann gibt es auch noch Fast Food,]WHG
+[viele Menschen verbinden damit stark fettiges und ungesundes Essen,]WHG
+[jedoch denke ich, dass Fast Food in gut eingeteilten Maßen vollkommn in Ordnung ist.]TH2
+[Das Zubereiten von Fast Food geht oft schnell]CON
+[und ist somit eine gute Lösung für Menschen, die beispielsweise lange arbeiten dann Nachause kommen]CON
+[und keine Kraft bzw. zu erschöpft sind um noch irgendetwas aufwendiges zu kochen.]CON
+[Am besten  ist aber die große Auswahl die es an Fast Food gibt.]CON
+[Man findet von Burger und Pizza bishin zu Nudelgerichten aber auch Salate alles.]CON
+[Ich bin der Meinung, dass beide Varianten vollkommen in Ordung sind]ZTH
+[jedoch sollte man beim Fast Food auf seinen Konsum achten.]FAZ
+[Außerdem hat nicht jede Person die Möglichkeit oder die Zeit frisch und selbst zu kochen.]FAZ
+[Jeder Mensch sollte für sich selbst entscheiden ob er selbst kocht oder zum Fast food greift.]FAZ
+<ZUBEREITETES ESSEN IST BESSER ALS FAST FOOD>TH1

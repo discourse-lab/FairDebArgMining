@@ -1,0 +1,24 @@
+[Bei meinem letzten Wandertag, mit meiner Klasse, sah ich einen Rettungseinsatz der freiwilligen Feuerwehr.]AHG
+[Diese arbeiten unentgeldlich.]WHG
+[In der Klasse diskutierten wir danach ob diese nicht bezahlt werden sollten.]AHG
+[Dabei stellten wir zwei Thesen auf.]GLD
+[Die erste lautete: Erenamtliche Arbeit stärkt die Gesellschaft!]TH1
+[Dies kann man vorallem dadurch stärken das Erenamtliche Arbeiter Jobs ausüben, welche nicht flechendecken bedient werden.]PRO
+[Somit können Kinder Sportfereine besuchen]PRO
+[oder Leute einen Notruf senden]PRO
+[und sich auf die freiwillige Feuerwehr verlassen.]PRO
+[Zudem ist es auch eine Chance für vuele neben der normalen Arbeit ein wenig Abwegslung in den Alltag einzubauen,]PRO
+[indem man ein Hobby betreibt.]PRO
+[Außerdem ist es wichtig sich gegenseitig zu stärken.]PRO
+[Deswegen sollte man Menschen in Not helfen und das auch Erenamtlich.]PRO
+[Die andere These: Erenamtlich zu arbeiten ist Sinnlos, man sollte sich lieber auf seinen richtigen Job konzentrieren!]TH2
+[Dies ist ebenfalls nachvolziebar, da viele Bürger hart Arbeiten]CON
+[und nicht noch Zeit ihrer so schon geringen Freizeit für einen Erenamtlichen Job zu opfern.]CON
+[Außerdem gibt es genügent Arbeitslose welche die Joblücken locker schließen könnten.]CON
+[Dazu müssen andere nicht arbeiten ohne das sie Geld verdienen,]CON
+[werend die Arbeitslosen für nichts machen Geld bekommen.]CON
+[Ich finde, dass jeder der entweder genug Freizeit hat oder sogar Arbeitslos ist Erenamtlich oder überhaupt arbeiten sollte.]ZTH
+[Dies würde die Gesellschaft stärken,]FAZ
+[da man sich so gegenseitig hilft und das vorallem Menschen in Not, ]FAZ
+[wie jetzt z.B. Flüchtlingen aus der Ukraine.]FAZ
+[Ich denke das vorallem Arbeitslose Bürger daruf hingewiesen werden müssen, sodass ihnen klar wird das ander Ernamtlich arbeiten, damit sie für nichts Geld bekommen.]FAZ

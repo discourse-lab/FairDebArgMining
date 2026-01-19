@@ -1,0 +1,26 @@
+[In der Klasse wird zur Zeit viel über das Thema ehrenamtliche Arbeit diskutiert.]AHG
+[Dies nehme ich als Anlass, eine Erörterung darüber zu schreiben. ob man in seiner Freizeit ehrenamtlich tätig werden sollte oder nicht.]GLD
+[Ehrenamtliche Arbeit bedeutet, dass man freiwillig in seiner Freizeit arbeitet, bzw. etwas für die Gesellschaft tut.]WHG
+[Dies ist ein kontroverses Thema, da viele es nicht einsehen in ihrer Freizeit zu arbeiten, ohne Geld zu bekommen.]WHG
+
+[Viele Schüler können sich vorstellen ehremnamtlich zu arbeiten.]TH1
+[Man sei stolz darauf, dass man etwas für die Gesellschaft leiste, so die Aussage eines Schülers.]PRO
+[Außerdem würde vieles auf der Welt besser laufen, wenn mehr Leute ehrenamtlich arbeiten würden.]PRO
+[Zum Beispiel gebe es weniger Umweltverschmutzung wenn Leute ehrenamtlich Müll einsammeln, bspw. in Parks oder an anderen öffentlichen Anlagen.]PRO
+[Außerdem gibt einem ehrenanmtliche Arbeit nachgewiesen ein besseres Selbstwertgefühl,]PRO
+[da man das Gefühl hat jemandem zu helfen.]PRO
+[Des Weeiteren kann man der Gesellschaft so etwas zurückgeben,]PRO
+[da man selbst höchstwahrschenlich auch schonmal die Dienste ehrenamtlicher Arbeit in Anspruch genommen hat.]PRO
+
+<EHRENAMTLICHE ARBEIT SOLLTE MAN NICHT MACHEN.>TH2
+[Ein starkes Argument dagegen ist, dass man viel von seiner freizeit verliert, die man eventuell anders nutzten möchte.]CON
+[Außerdem kriegt man für diesen Zietaufwand kein Geld,]CON
+[weswegen viele Leute wenig motiviert sind, in ihrer Freizeit ehrenamtlich zu arbeiten.]CON
+[Des Weiteren haben viele schon wenig Zeit,]CON
+[und wollen in ihrer Freizeit nicht noch ohne Lohn arbeiten.]CON
+
+<NEUTRALE THESE>ZTH
+[ich finde das es schön wäre wenn mehr Leute ehrenamtlich arbeiten würden, da vieles auf der Welt so besser laufen würde.]FAZ
+[Allerdings finde ich es auch sehr verständlich, wenn man in seiner Freizeit nicht noch ehrenamtlich arbeiten möchte.]FAZ
+[Manche Leute arbeiten gerne in ihrer Freizeit ehrenamtlich, da sie es schön finden der Gesellschaft etwas zurückzugeben.]FAZ
+[Andere wiederum wollen nicht ihre wenige Freizeit dafür nutzen, noch mehr zu arbeiten als sowieso schon.]FAZ

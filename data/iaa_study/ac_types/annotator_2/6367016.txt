@@ -1,0 +1,24 @@
+[Bei meinem letzten Wandertag haben wir einen Rettungseinsatz der freiwilligen Feuerwehr beobachtet.]AHG
+[Daraufhin haben wir das Thema ehrenamtliche Arbeit in der Klasse diskutiert und es kamen verschiedene Ansichten darüber auf.]AHG
+
+<EHRENAMTLICHE ARBEIT SOLLTE MAN NICHT MACHEN.>TH2
+[Einige meiner Mitschüler waren der Ansicht, dass das ungerecht wäre, wenn sie eine Arbeit machen, aus denen Andere profitieren, und selbst nichts bekommen.]CON
+[Sie haben gesagt, dass man, wenn man sich schon die Mühe macht bei den Menschen zu helfen, dann kann man auch angemessen dafür entlohnt werden.]CON
+
+<EHRENAMTLICHE ARBEIT SOLLTE MAN MACHEN.>TH1
+[Eine andere Meinung war, dass man das nicht für sich selbst tut, sondern um Anderen zu helfen.]PRO
+[Der deutsche Staatsbürger ist verpflichtet Erste Hilfe zu leisten.]PRO
+[Wenn man also zum Beispiel mitbekmt, dass das Auto vor dir einen Unfall baut, dann wäre es eine Straftat es einfach zu ignorieren.]PRO
+[In diesem Fall musst du ihm helfen]PRO
+[und es wäre nicht anderes, als wenn du es ehrenamtlicht machen würdest.]PRO
+[Andere sagen, dass man das auf sich selbst beziehen muss.]PRO
+[Schließlich möchte man, wenn man selbst Hilfe braucht auch welche bekommen.]PRO
+[Wenn man also zum Beispiel in einem brennenden Haus festsitzt und es keine Feuerwehr geben würden, dann wäre man auf sich allein gestellt, um zu entkommen.]PRO
+[Dabei schaffen es etwa 99% nicht und sterben entweder durch eine Rauchvergiftung oder durch Verbrennungen.]PRO
+
+[Ich persönlich finde, dass ehrenamtliche Arbeit wichtig ist.]ZTH
+[Ich wäre stolz darauf, wenn ich Anderen Menschen helfen würde, auch wenn ich dafür nichts bekomme.]FAZ
+[Es liegt ganz an der eigenen Einstellung, ob man anderen Menschen, oder vielleicht auch Tieren, helfen würde, auch ohne Bezahlung.]FAZ
+[Außerdem kann man diese Arbeit später als festen Beruf machen, wenn man unbedingt an dem Geld interressiert wäre.]FAZ
+[Ich empfehle ehrenamtliche Arbeit wenigstens einmal in Erwägung zu ziehen.]FAZ
+[Damit wäre möglicherweise einigen Menschen geholfen.]FAZ

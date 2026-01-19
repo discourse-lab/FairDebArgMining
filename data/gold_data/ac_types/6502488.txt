@@ -1,0 +1,21 @@
+0 [der Rettungseinsatz der Freiwilligen Feuerwehr]GLD
+1 [eine Ehrenamtliche Tat hat seine Vor-und Nachteile.]GLD
+2 [Lohnt es sich wirklich für Für  Kostenlos zu Arbeiten in seiner Freizeit,]GLD
+3 [andererseits hat die Feuerwehr zu wenig Mitarbeiter, so dass es auch eine Freiwillige Feuerwehr gibt.]WHG
+4 [Da kann jeder der schon mal zur Feuerwehr gehen wollte, ohne praktische Erfahrung hingehen und sein Amt ausführen.]PRO
+5 [Wenn mann seinen Job richtig macht bekommt man viel Ansehen und ggf. Belohnungen.]PRO
+6 [Ein Ehrenamt hat Vorteile.]TH1
+7 [1. Wenn man in seiner Freizeit nicht weiss was man machen kann, kann man statdessen zur Feuerwehr gehen oder Altenheim anstatt vor dem Bildschirm zu sitzen und sich Bilder von Affen anzusehen.]PRO
+8 [2. ein Vorteil wäre, dass man die Sachen ausprobieren kann die Ehrenamtlich sind wie Kindergärtner]PRO
+9 [und dann weiss man ob das was ist für sich und ob man da später für Geld Arbeiten würde.]PRO
+10 [3. Wenn man wirklich gut Arbeitet kann auch manchmal was für einen rausspringen]PRO
+11 [wie ein Freipass zu einen Event beispielweise.]PRO
+12 [Ein Ehrenamt hat keine Vorteile.]TH2
+13 [1. Es würde einen seine Freizeit berauben,]CON
+14 [weil man onehin schon zu wenig Zeit hat,]CON
+15 [hätte mann keine Zeit mehr für sich.]CON
+16 [2. Man kriegt kein Geld für seine Arbeit,]CON
+17 [obwohl man seine wertvolle Zeit dafür geopfert hat.]CON
+18 [Persöhnliche Meinung:]GLD
+19 [ich finde man sollte schon was Ehrenamtliches machen, wenn man viel Freizeit hat.]FAZ
+20 [Aber wenn man nicht will muss man auch nicht, aber es wäre schon gut was zu machen wenn man kann.]ZTH

@@ -1,0 +1,23 @@
+0 [Darstellendes spiel als Unterrichtsfach]GLD
+1 [Sollte Darstellendesspiel (Theaterunterricht) als Fach eingefürt werden]GLD
+2 [Sollte daestellendes speil als unterichts fach eigefürt werden]GLD
+3 [Ja es sollte eingeführt werden]TH1
+4 [weil schülerinnen und schüler ihre fantasie besser außleben könen anstatt im deutsch unttericht irgend welche texte abzuschreiben.]PRO
+5 [Ja es sollte eingeführt werden]TH1
+6 [Außerdem kann man schauen wie talentiert manche schüler eigendlich sind.]PRO
+7 [bei einem theater stück gubt es ja auch viele faktoren die zu beachten sind.]PRO
+8 [dort zählt auch eine gute konzentration.]PRO
+9 [Nein Es sollte nicht als untterichts fach eingeführ werden]TH2
+10 [Nein es sollte nicht eingeführt werden]TH2
+11 [weil es manchen schüler villeicht peinlich ist]CON
+12 [oder sie sich nicht trauen]CON
+13 [weil sie nicht so ein großes selbstvertrauen haben wie z.b andere kinder.]CON
+14 [Nein es sollte nicht eingeführt werden]TH2
+15 [weil es manche kinder villeicht komisch finden etwas vor der klasse vorzutragen was sie eigendlich nicht wollen.]CON
+16 [Nein es sollte nicht eingeführt werden]TH2
+17 [da es auch manche kinder gibt die etwas nicht so gut darstellen können wie manch andere kinder.]CON
+18 [und sich dann vielleicht schämen.]CON
+19 [Ich fände es gut wenn so ein fach eingeführt werden würde]ZTH
+20 [da ich selbst auch sehr talentiert im schauspiel binn]PRO
+21 [und mir wenige sachen peinlicht sind.]PRO
+22 [ich würde es empfehlen jedoch nur als wahlplicht fach da man es dann selber für sich entscheiden kann ob man am theaterspielen dabei seien möchte oder nicht.]FAZ

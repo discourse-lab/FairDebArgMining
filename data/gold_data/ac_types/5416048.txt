@@ -1,0 +1,23 @@
+0 [Viele Leute diskutiern über fastffood und frischs essen kaufen und selber zubereiten.]GLD
+1 <MAN SOLLTE ESSEN SELBER ZUBEREITEN>TH1
+2 [Also insgesamt kann man gut sagen das meist frisches Kochen gesünder ist,]PRO
+3 [da man weiß was man hinein kocht.]PRO
+4 [Man kann sich immer verbessen beim Kochen und das ein oder andere variieren,]PRO
+5 [also wenn zbs. ein Gewürz gefehlt hat, kann man es beim nächsten mal besser machen.]PRO
+6 [Dazu kommt das Kochen meiner meinung nach viel spaß macht.]PRO
+7 [Viele Leute sagen das sie lieber fastfood essen]TH2
+8 [da es zbs. schneller geht]CON
+9 [oder ihrer meinung nach auch besser schmeckt.]CON
+10 [Jeder mensch hat einen andern Geschmack,]PRO
+11 [also davon kann man es nicht abhängig machen.]PRO
+12 [Zu dem argument das es schneller geht muss man sagen]PRO
+13 [das wenn man mal zeit hat oder vom vor tag etwas beim Kochen übrig geblieben ist es man sich wieder zubereiten kann.]PRO
+14 [Beim Fastfood essen weiß man meist nicht genau was darin enthalten ist,]CON
+15 [daher kann es auch sehr ungesund sein.]CON
+16 [Es ist sehr gesund jeden Tag obst und gemüse zu essen,]PRO
+17 [das fällt bei fastfood leider weg.]PRO
+18 <NEUTRALE THESE>ZTH
+19 [Insgesamt kann man sagen das Fastfood meist ungesünder ist,]FAZ
+20 [viele leute mögen aber auch den geschmackt von fastfood essen.]FAZ
+21 [Beim selber Kochen kann man sehr gesunde sachen hienen bringe, wie z.b.s frischen gemüse oder obst.]FAZ
+22 [Man kann anstatt zucker auch sirups nehem.]FAZ

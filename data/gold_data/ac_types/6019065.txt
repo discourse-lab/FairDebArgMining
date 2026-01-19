@@ -1,0 +1,26 @@
+0 [Es wird in einigen Bundesländern diskutiert ob es an den Schulen Theater Unterricht geben sollte.]WHG
+1 [Es gibt Stimmen dafür aber auch Stimmen dagegen.]GLD
+2 [Es sollte keinen Theater unterricht geben]TH2
+3 [da sich viele Leute super unwohl auf der Bühne oder beim Schauspielen fühlen.]CON
+4 [Ich kenne eine Person die unter Angststörungen leidet und sie hat mit ihrer Klasse mal einen Theater workshop gemacht und hat dabei fast eine Panikattake bekommen.]CON
+5 [Außerdem gelingt es nicht vielen sich in andere Rollen zu versetzen.]CON
+6 [Ich habe früher mit meiner Schwester oft so getan als wären wir irgendwelche fiktieven Charaktäre und sie hatte immer probleme damit sich in andere Rollen zu versetzen.]CON
+7 [Dazu währe es nicht sehr Fähr jemand auf sowas zu benoten]CON
+8 [da jeder unterschiedliche Stärken und Schwächen hat.]CON
+9 [Wen eine Person sich auf der Bühne unwohl fühlt dann wird sich das warscheinlich auch nicht durch Unterricht ändern.]CON
+10 [Auf der anderen Seite wäre Theater unterricht gut]TH1
+11 [da Theater das Selbstbewustsein stärkt.]PRO
+12 [Eine Freundin von mir hatte starke probleme mit ihrem Selbstbewusstsein, doch als sie mit Theater angefangen hat ist ihr Selbstwert gefühl sehr positiv verändert.]PRO
+13 [Dazu kommt das man in andere Rollen reinzuschlüpfen kann]PRO
+14 [und man sich von einer anderen Seite kennenlernt.]PRO
+15 [Ich war früher mal in einer Theater AG und es hat super viel Spaß gemacht sich in andere Rollen hinein zu versetzen.]PRO
+16 [AAußerdem kann man seine Kreativen Seiten hervorbringen]PRO
+17 [und man lernt mehr über sich selbst.]PRO
+18 [Wen man ein bestimmten Charakter spielen soll kann man selber darüber nachdenken was dieser Charakter tun würde.]PRO
+19 [und man kann erfrschen wie man selbst mit situationen umgeht]PRO
+20 [und wie der Charakter mit diesen Situationen umgehen würde.]PRO
+21 [Ich finde theater unterricht ist eine tolle idee]ZTH
+22 [da man mehr über sich selbst lernen kann und es das Selstbewusstsein stärkt.]FAZ
+23 [Das Fazit ist das, auf der einen seite theater Unterricht unvorteilhaft wäre, da sich viele Leute unwohl fühlen oder Probleme damit haben sich in andere Rollen zu versetzen.]FAZ
+24 [Auf der anderen seite wäre es gut da man Selbstbewusster wird und die Chance hat sich in einen anderen Charakter hineinzuversetzen.]FAZ
+25 [Ich empfehle es dem eine Chance zu geben auch wenn man sich am anfang vielleicht unwohl oder unbeholfen fühlt, da es einem vielleicht am Ende ja doch Spaß macht.]FAZ

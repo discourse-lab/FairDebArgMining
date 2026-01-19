@@ -1,0 +1,17 @@
+0 [In unseren heutigem Thema diskutieren wir ob freiwillige Arbeit gut ist oder man dafür Geld bekommen sollte.]GLD
+1 [freiwillige Arbeit ist gut]TH1
+2 [und hilft anderen.]PRO
+3 ["Ich bin stolz darauf, dass ich etwas für die Gesellschaft leiste."]PRO
+4 [oder "ich helfe gerne Menschen damit" dies sind beispiele die für eine Freiwillige Arbeit gut sind und eher positiv auffallen.]PRO
+5 <MAN SOLLTE KEIN EHRENAMT AUSÜBEN>TH2
+6 [Anderrerseits macht doch niemand etwas freiwillig ohne Geld zu bekommen.]CON
+7 ["Ich mache doch nicht die Arbeit, für die andere bezahlt werden."]CON
+8 [oder "Warum sollte ich etwas freiwillig machen, wenn ich auch Geld dafür bekommen könnte?".]CON
+9 [Die meinungen vieler Schüler sind sher unterschiedlich, einige mögen freiwillige Arbeit und helfen gerne mit,]PRO
+10 [aber andere würde nie eine Freiwillige Arbeit machen,]CON
+11 [weil sie kein Geld dafür kriegen.]CON
+12 [Meine Meinung zu den Thema ist sehr gespalten,]ZTH
+13 [einerseits finde ich es gut, dass es Menschen gibt, die andere gerne helfen.]FAZ
+14 [Jedoch verstehe ich auch die Menschen die sagen das sie nur für Geld arbeiten gehen würden, denn die wichtige Lebenszeit der Menschen wird dadurch auch gestehlt.]FAZ
+15 [Mein Fazit ist das jeder, das machen sollte wofür er blüht oder was er gerne in seiner Freizeit machen würde.]FAZ
+16 [Nicht jeder ist gleich und deswegen macht das wofür ihr blüht und was euch spaß macht ;)]FAZ

@@ -1,0 +1,24 @@
+0 [Im Rahmen des schulischen Unterrichtes haben wir eine Debatte geführt, diese drehte sich um folgende Frage.]AHG
+1 [Lohnt es sich ehrenamtliche Arbeit zu leisten?]GLD
+2 [Einige kamen zu dem Schluss, dass es sich nicht lohnt ehrenamtlich zu arbeiten.]TH2
+3 [Da es keine Bezahlung gibt]CON
+4 [obwohl viele Menschen ihre Zeit und Kraft aufwenden.]CON
+5 [Gegen ehrenamtliche Arbeit spricht auch das diese in den meisten Fällen sehr Kraft aufwendig ist.]CON
+6 [Wie die freiwillige Feuerwehr zum Beispiel die Feuerwehr kann jeder Zeit gerufen werden und die Helfer müssen schnell vor Ort sein.]CON
+7 [Das heißt wiederum dass sie sofort los müssen wenn sie informiert werden.]CON
+8 [Zudem ist ehrenamtliche Arbeit bei der freiwilligen Feuerwehr auch sehr risikoreich.]CON
+9 [Außerdem ist ehrenamtliche Arbeit oft sehr Zeit aufwendig.]CON
+10 [Dies schränkt die Arbeiter oft auch im eigenen Leben ein.]CON
+11 [So ist es bei der Feuerwehr zum Beispiel egal ob die Ehrenamtler beim Frisör oder der Arbeit sind sie müssen trotzdem sofort vor Ort sein.]CON
+12 [MAN SOLLTE EHRENAMTLICH ARBEITEN]TH1
+13 [Für ehrenamtliche Arbeit spricht jedoch, dass die Ehrenamtler sich beteiligen und helfen wo sie können und dies aus eigenem Willen.]PRO
+14 [So arbeiten sie also auch ohne jegliche Aussicht auf Bezahlung.]PRO
+15 [Die ehrenamtliche Arbeit hilft Menschen die es sich selbst nicht leisten können. Sowie die Arbeit in Obdachlosenunterkunften und Suppenküchen.]PRO
+16 [So nimmt man durch ehrenamtliche Arbeit auch mehr am gesellschaftlichen Leben teil.]PRO
+17 [In Dörfern leisten die Bewohner oft ehrenamtliche Arbeit]PRO
+18 [in dem sie dabei helfen das Dorf in Stand zu halten.]PRO
+19 [Ich selbst halte ehrenamtliche Arbeit für sinnvoll,]ZTH
+20 [da sie zeigt wer wirklich an einer Sachen teil haben möchte und wem es egal ist.]FAZ
+21 [Außerdem wage ich es zu behaupten das viele Brände ohne die freiwilligen Feuerwehren nicht gelöscht worden wären.]FAZ
+22 [Als Fazit kann man sagen dass ehrenamtliche Arbeit zwar nicht bezahlt ist aber den Menschen die sich selbst nicht zu helfen wissen verdammt viel hilft.]FAZ
+23 [Jedoch wäre es wichtig das die Menschen mehr in ehrenamtliche Organisationen investieren um diesen die Arbeit zu erleichtern und den Anteil der Ehrenamtler in unserer Gesellschaft zusteigern.]FAZ

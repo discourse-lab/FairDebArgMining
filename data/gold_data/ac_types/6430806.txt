@@ -1,0 +1,19 @@
+0 [Bei meinem letzten Wandertag habe ich einen Einsatz der freiwilligen Feuerwehr beobachtet.]AHG
+1 [Diese arbeiten unentgeldlich.]WHG
+2 [Nicht nur bei der Feuerwehr, sondern auch im Sport, im Gesundheitswesen, im Naturschutz oder bei der Kinderbetreuung sind Menschen ehrenamtlich tätig.]WHG
+3 [Da sie diese Arbeit in ihrer Freizeit und ohne Bezahlung leisten]WHG
+4 [hat meine Klasse über dieses Thema kontrovers diskutiert.]AHG
+5 [Menschen sind in so vielen Situationen ehrenamtlich tätig aber ohne Bezahlung macht das denn berhaupt Sinn?]TH1
+6 [Die meisten Menschen arbeiten ehrenamtlich weil sie damit etwas für die anderen Menschen und für die Geselschaft machen möchten]PRO
+7 [zum Beispiel die freiwillige Feuerwehr sie Hilft der richtigen Feuerwehr in ihrer Freizeit damit Brände schneller gelöscht werden können.]PRO
+8 [Es gibt auch Menschen denen es Spaß macht auf Kinder aufzupassen]PRO
+9 [zum Beispiel ind der freiwilligen Kinderbetreuung haben sie es jährlich mit dutzenden Kinder zutun und es macht ihnen trotzdem Spaß.]PRO
+10 [Es macht sehr viel Spaß anderen zu Helfen]PRO
+11 [aber es ist auch sehr gefährlich.]CON
+12 <MAN SOLLTE KEIN EHREMAMT AUSÜBEN>TH2
+13 [Es ist sehr gefährlich]CON
+14 [zum Beispiel werden jährlich ca. 4.507 Arbeitsunfälle bei der freiwilligen Feuerwehr gemeldet.]CON
+15 [Es ist auch sehr stressig]CON
+16 [zum Beispiel bei der freiwilligen Kinderbetreuung sie arbeiten denn ganzen Tag mit vieleicht auch nervigen Kinder]CON
+17 [und das ohne Bezahlung.]CON
+18 [Mein Fazit und gleichzeitig auch meine Meinung ist das jeder das machen sollte was einem Spaß macht.]ZTH

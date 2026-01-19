@@ -1,0 +1,23 @@
+0 [In der Klasse wird zur Zeit viel über das Thema ehrenamtliche Arbeit diskutiert.]AHG
+1 [Dies nehme ich als Anlass, eine Erörterung darüber zu schreiben. ob man in seiner Freizeit ehrenamtlich tätig werden sollte oder nicht.]GLD
+2 [Ehrenamtliche Arbeit bedeutet, dass man freiwillig in seiner Freizeit arbeitet, bzw. etwas für die Gesellschaft tut.]WHG
+3 [Dies ist ein kontroverses Thema, da viele es nicht einsehen in ihrer Freizeit zu arbeiten, ohne Geld zu bekommen.]WHG
+4 [Viele Schüler können sich vorstellen ehremnamtlich zu arbeiten.]TH1
+5 [Man sei stolz darauf, dass man etwas für die Gesellschaft leiste, so die Aussage eines Schülers.]PRO
+6 [Außerdem würde vieles auf der Welt besser laufen, wenn mehr Leute ehrenamtlich arbeiten würden.]PRO
+7 [Zum Beispiel gebe es weniger Umweltverschmutzung wenn Leute ehrenamtlich Müll einsammeln, bspw. in Parks oder an anderen öffentlichen Anlagen.]PRO
+8 [Außerdem gibt einem ehrenanmtliche Arbeit nachgewiesen ein besseres Selbstwertgefühl,]PRO
+9 [da man das Gefühl hat jemandem zu helfen.]PRO
+10 [Des Weeiteren kann man der Gesellschaft so etwas zurückgeben,]PRO
+11 [da man selbst höchstwahrschenlich auch schonmal die Dienste ehrenamtlicher Arbeit in Anspruch genommen hat.]PRO
+12 <EHRENAMTLICHE ARBEIT SOLLTE MAN NICHT MACHEN.>TH2
+13 [Ein starkes Argument dagegen ist, dass man viel von seiner freizeit verliert, die man eventuell anders nutzten möchte.]CON
+14 [Außerdem kriegt man für diesen Zietaufwand kein Geld,]CON
+15 [weswegen viele Leute wenig motiviert sind, in ihrer Freizeit ehrenamtlich zu arbeiten.]CON
+16 [Des Weiteren haben viele schon wenig Zeit,]CON
+17 [und wollen in ihrer Freizeit nicht noch ohne Lohn arbeiten.]CON
+18 <NEUTRALE THESE>ZTH
+19 [ich finde das es schön wäre wenn mehr Leute ehrenamtlich arbeiten würden, da vieles auf der Welt so besser laufen würde.]FAZ
+20 [Allerdings finde ich es auch sehr verständlich, wenn man in seiner Freizeit nicht noch ehrenamtlich arbeiten möchte.]FAZ
+21 [Manche Leute arbeiten gerne in ihrer Freizeit ehrenamtlich, da sie es schön finden der Gesellschaft etwas zurückzugeben.]FAZ
+22 [Andere wiederum wollen nicht ihre wenige Freizeit dafür nutzen, noch mehr zu arbeiten als sowieso schon.]FAZ

@@ -1,0 +1,21 @@
+0 [Bei meinem letzten Wandertag haben wir einen Rettungseinsatz der freiwilligen Feuerwehr beobachtet.]AHG
+1 [Daraufhin haben wir das Thema ehrenamtliche Arbeit in der Klasse diskutiert und es kamen verschiedene Ansichten darüber auf.]AHG
+2 <EHRENAMTLICHE ARBEIT SOLLTE MAN NICHT MACHEN.>TH2
+3 [Einige meiner Mitschüler waren der Ansicht, dass das ungerecht wäre, wenn sie eine Arbeit machen, aus denen Andere profitieren, und selbst nichts bekommen.]CON
+4 [Sie haben gesagt, dass man, wenn man sich schon die Mühe macht bei den Menschen zu helfen, dann kann man auch angemessen dafür entlohnt werden.]CON
+5 <EHRENAMTLICHE ARBEIT SOLLTE MAN MACHEN.>TH1
+6 [Eine andere Meinung war, dass man das nicht für sich selbst tut, sondern um Anderen zu helfen.]PRO
+7 [Der deutsche Staatsbürger ist verpflichtet Erste Hilfe zu leisten.]PRO
+8 [Wenn man also zum Beispiel mitbekmt, dass das Auto vor dir einen Unfall baut, dann wäre es eine Straftat es einfach zu ignorieren.]PRO
+9 [In diesem Fall musst du ihm helfen]PRO
+10 [und es wäre nicht anderes, als wenn du es ehrenamtlicht machen würdest.]PRO
+11 [Andere sagen, dass man das auf sich selbst beziehen muss.]PRO
+12 [Schließlich möchte man, wenn man selbst Hilfe braucht auch welche bekommen.]PRO
+13 [Wenn man also zum Beispiel in einem brennenden Haus festsitzt und es keine Feuerwehr geben würden, dann wäre man auf sich allein gestellt, um zu entkommen.]PRO
+14 [Dabei schaffen es etwa 99% nicht und sterben entweder durch eine Rauchvergiftung oder durch Verbrennungen.]PRO
+15 [Ich persönlich finde, dass ehrenamtliche Arbeit wichtig ist.]ZTH
+16 [Ich wäre stolz darauf, wenn ich Anderen Menschen helfen würde, auch wenn ich dafür nichts bekomme.]FAZ
+17 [Es liegt ganz an der eigenen Einstellung, ob man anderen Menschen, oder vielleicht auch Tieren, helfen würde, auch ohne Bezahlung.]FAZ
+18 [Außerdem kann man diese Arbeit später als festen Beruf machen, wenn man unbedingt an dem Geld interressiert wäre.]PRO
+19 [Ich empfehle ehrenamtliche Arbeit wenigstens einmal in Erwägung zu ziehen.]FAZ
+20 [Damit wäre möglicherweise einigen Menschen geholfen.]FAZ

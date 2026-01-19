@@ -1,0 +1,33 @@
+0 [Jeder hat in seiner Stadt bestimmt ein Polizei- oder Feuerwehrgebäude und jeder kennt auch diese Art von Beruf.]WHG
+1 [Trotzdem werden häufig die Menschen im Hintergrund vergessen, die Leute die ehrenamtlich in kleinen Städten, bei der freiwilligen Feuerwehr ihren Nachmittag ohne Bezahlung verbringen.]WHG
+2 [Allerdings sind das nicht die einzigen Personen die sich ehrenamtlich für eine bestimmte Sache einsetzen.]WHG
+3 [Andere betreuen z.B. Kinder in ihrer Freizeit.]WHG
+4 [So sind wir mit unserer Schülerzeitung dann auf dieses Thema gekommen.]AHG
+5 [Anschließend wollten wir uns die Meinugen verschiedener Personen einholen.]AHG
+6 [Man konnte nach der Befragung erkennen, dass sich vor allem zwei Gruppen mit verschieden Meinungen gebildet haben.]GLD
+7 [Wenn ihr jetzt noch eine andere Meinug habt, schreibt uns diese Gerne per Mail.]GLD
+8 [These 1: "Ich bin stolz darauf, dass ich etwas für die Gesellschaft leiste."]TH1
+9 [Jeder der ehrenamtlich arbeitet weiß, dass der Job nicht leicht ist und man trotzdem nur ein kleines Budget erhält.]PRO
+10 [Allerdings wird man durch so einen Job gut auf das einem anstehende Berufsleben vorbereitet.]PRO
+11 [So hat man es dann vllt. leichter in einen neuen Beruf reinzufinden.]PRO
+12 [Außerdem ist man durch so einen ehrenamtlichen Job z.B. bei der freiwilligen Feuerwehr, in einen Umfeld mit vielen anderen Menschen]PRO
+13 [und so kann man dann vllt. viele neue soziale Kontakte knüpfen.]PRO
+14 [Ebenfalls ein Aspekt für einen ehrenamtlichen Job, ist das positive Gefühl mit dem nach Hause gehen kann,]PRO
+15 [da man anderen Menschen freiwillig hilft.]PRO
+16 [These 2: "Ich mache doch nicht die Arbeit, für die andere bezahlt werden."]TH2
+17 [Welche Argumente können nun diese These unterstützen?]GLD
+18 [Auch wenn man einen ehrenamtlichen Beruf anfängt, muss man sich erstmal an das neue Umfeld gewöhnen]CON
+19 [und das fällt vllt. nicht jedem immer so leicht.]CON
+20 [Man wird zwar während des ehrenamtlichen Beruf schon ein bisschen auf das spätere Leben vorbereitet]PRO
+21 [allerdings muss man trotzdem, bei einem richtigen Beruf dann eventuell nochmal bei 0 anfangen.]CON
+22 [Ich denke alleridings das stärkste Gegenargument ist die fehlende Freizeit,]CON
+23 [da man ja kein Geld verdient muss man davor noch richtig arbeiten oder halt auch zur Schule gehen.]CON
+24 [Nach der Schule oder der Arbeit folgt dann noch der ehrenamtliche Beruf]CON
+25 [und das könnte dann zu Stress führen.]CON
+26 [Der Stress könnte dann noch andere Sachen mit sich bringen wie Depressionen.]CON
+27 [Ich würde sagen das mich die Argumente für einen ehrenamtlichen Beruf mehr überzeugt haben,]ZTH
+28 [da man anderen Menschen einfach was gutes tut]PRO
+29 [und sich für die Gesellschaft einsetzt.]PRO
+30 [Außerdem sollte der Beruf einem ja auch Spaß machen und dann ist Geld vllt. nicht so wichtig.]FAZ
+31 [Ich würde also sagen das ich eher einen ehrenamtlichen Beruf beführworte.]FAZ
+32 [Allerdings sollte man sich trotzdem Freizeit nehmen und vllt. nur 2-3 Mal die Woche den ehrenamtlichen Beruf besuchen, damit man z.B. Stress oder Depressionen vorbeugt.]FAZ

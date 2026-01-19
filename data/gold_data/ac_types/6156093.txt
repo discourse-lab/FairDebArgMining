@@ -1,0 +1,18 @@
+0 [In jeder Klasse gibt es immer Schüler*innen, die unsicher und schüchtern sind und nicht gut vor der Klasse sprechen können.]WHG
+1 [Aber wäre es nicht schöner, wenn sich JEDER Schüler*in wohl fühlt, während eines Votrages zum Beispiel?]GLD
+2 [Dafür müsste man das Sprechen vor Publikum üben und man bräuchte jemanden, der einem zeigt, wie man selbstbewusst auftreten kann.]WHG
+4 [Und wodurch geht das besser als durch das Fach "Darstellendes Spiel"?]TH1
+5 [Natürlich gibt es wieder zwiegespaltene Meinungen.]GLD
+6 [Aber warum eigentlich? Es kann einem doch nur Gutes bringen.]PRO
+7 [Zum Beispiel würde man eine Menge an Selbstbewusstsein dazugewinnen,]PRO
+8 [da man lernt(mit der Hilfe eines Profis auf dem Gebiet), mit Nervosität umzugehen.]PRO
+9 [das würde das Sprechen vor der Klasse, zum Beispiel bei Voträgen, ungemein erleichtern.]PRO
+10 [Außerdem hätte man die Chance, von dem Schulstress, den man nebenbei sowieso hat, etwas wegzukommen und sich zu lockern.]PRO
+11 [Es gibt aber auch Menschen, die das etwas anders sehen.]TH2
+12 [Denn es besteht natürlich auch das Risiko, dass man zum Beispiel Panikattacken auf der Bühne hat aufgrund von Lampenfieber.]CON
+13 [Andererseits stellt sich auch die Frage, wer die Person überhaupt bezahlt, die mindestens einmal pro Woche in die Schule kommt, um die Schüler*innen zu unterrichten.]CON
+14 [Wie man sieht, gibt es gute Argumente für beide Seiten.]ZTH
+15 [Anfangs wäre es natürlich nicht leicht für die ängstlicheren Schüler*innen.]FAZ
+16 [Aber ALLER Anfang ist schwer und man ist mit seiner Angst auch nicht alleine.]FAZ
+17 [Ich denke, es wäre eine gute Möglichkeit, um die Kreativität zu fördern und an Selbstbewusstsein dazuzugewinnen.]FAZ
+18 [Außerdem wäre es mal eine Abwechslung von dem ganzen Schulstress, den man nebenbei sowieso hat.]FAZ

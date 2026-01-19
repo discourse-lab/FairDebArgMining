@@ -1,0 +1,36 @@
+[Was ist gesünder?]GLD
+[Selbst Essen zubereiten oder Fertigessen kaufen]GLD
+[Gestern habe ich mir einen Döner gehohlt.]AHG
+[Das Fleisch schmeckte nicht sonderlich gut und ich habe mich gefragt warum und kam zu dem Entschluss das es bestimmt daran lag weil das Fleisch schon so lange am Dönerspeiß hing.]PRO
+[Ich habe mich daraufhin auch noch gefragt was in dem Fleisch alles drin sei weil das war das einzige wo ich nicht wusste was die Inhaltsstoffe waren.]PRO
+[Weil Salat ist halt Salat und Tomate ist Tomate.]SON
+[Ich fande das war ein sehr großer nachteil von fast Food]GLD
+
+[Fertigessen ist besser als Selbst zu kochen]TH2
+[Zum Beispiel Fast Food ist viel billiger]CON
+[und so kannst du dir eine Warme Mahlzeit kaufen auch wenn finanzielle Sorgen hast.]CON
+[Durch Fast Food Kettengibt es außerdem viele Jobs]CON
+[Fast Food ist schnell]CON
+[und wenn du mal vergessen hast einzukaufen, dann kannst du einfach mittels Lieferfirmen etwas schnell bestellen und etwas essen]CON
+
+<SELBST KOCHEN IST BESSER>TH1
+[Selbst zu kochen ist Gesünder als Fertigessen zu bestellen]PRO
+[Wenn man selbst kocht, weiß man alle Zutaten und weiß auch was man genau isst.]PRO
+[Zum Beispiel man geht bei MC Donalds essen.]PRO
+[Dann kennt man die Inhaltsstoffe nicht]PRO
+[und ist sich vielleicht auch nicht sicher das man zum Beispiel bei Chicken MC Nougets nur Geheckselte Hühnchen isst]PRO
+[und man weiß auch nicht wie die Zubereitung war,]PRO
+[wo es zubereitet wurde]PRO
+[und wenn man selbst kocht mit vielleicht sogaar Bio Zutäten welche dann auch noch Regional sind, dann tun man sogar etwas gutes und dann schmeckt es einem noch umso mehr]PRO
+[Du kannst mit Freunden kochen, das verbindet und ist ein Erlebnis und ein Grund zur Förderung des Sozialverhalten.]PRO
+[Und dann könnt ihr es gemeinsam essen]PRO
+[und euch freuen.]PRO
+[Wenn du nur Bestellst, lernst du nie zu kochen.]PRO
+[Das ist ein großer Nachteil im Leben.]PRO
+[Siehe Argument 1 und 2.]GLD
+
+[Meiner Meinung nach,kann man ja ab und zu manchmal zum MC´s gehen oder dir auf dem zuhause weg einen Döner holen]FAZ
+[aber man sollte dennoch dies nur vielleicht zweinmal die Woche tun und sonst selbst kochen weil man viel lernt und auch Gesünder lebt und eben Kochen etwas ist was Menschen verbindet, und Essen ist eine sehr große Rolle in unseren Leben.]ZTH
+[Ich kann nicht die Leute verstehen welche nicht ab und zu aus vergnügen essen.]FAZ
+[Wenn man nicht auf billiges, gering qualitatives Fertigessen/Fastfood angewiesen ist, sollte man nur selten dieses konsumieren und sonst selbst gekochtes Essen essen]FAZ
+[Gesund Kochen, Gesund Essen, Gesund Leben.]FAZ

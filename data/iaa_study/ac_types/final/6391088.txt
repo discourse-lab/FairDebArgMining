@@ -1,0 +1,21 @@
+0 [Wir haben in der Klasse kontrovers darüber diskutiert, ob es sinvoll ist ohne Arbeitslohn für etwas arbeiten zu gehen oder es gut ist etwas für die Gesellschaft zu tun.]AHG
+1 [Unsere Meinungen in der Klasse sind gespalten, die einen tuen gerne etwas für die Gesellschaft ohne etwas dafür haben zu wollen, die anderen wollen für ihre erbrachte Leistung/Arbeit einen dem ensprechenden Lohn haben.]AHG
+2 [Meine erste These lautet, wir sollen der Gesellschaft helfen/unterstützen ohne Lohn dafür zu erwarten.]TH1
+3 [Wir helfen damit Menschen, die nicht arbeiten gehen können durch Folgeverletzungen oder änlichen sachen.]PRO
+4 [Dadurch Unterstützen wir viele Menschen, ect.]PRO
+5 [Mein zweites Argument besteht darin,dass wir lernen wie wir was machen können]PRO
+6 [und es ist abwechslungsreich.]PRO
+7 [Das letzte Argument besteht daraus, dass wir auch vielen Tieren helfen würden,]PRO
+8 [sie bekommen mehr Aufmerksamkeit]PRO
+9 [und werden dadurch Zahmer.]PRO
+10 [Dazu gibt es natürlich auch eine andere Seite, wir sollten der Gesellschaft nicht ohne Lohn helfen, da andere einen dafür bekommen.]TH2
+11 [Bei der freiwilligen Feuerwehr muss man im Notfall sein Leben auf`s Spiel setzen]CON
+12 [das ist es nicht wert]CON
+13 [und es nimmt viel Zeit in anspruch.]CON
+14 [Es ist unfair im Verhältnis zu den Leuten die dafür bezahlt werden,]CON
+15 [da gleiches Recht für alle bestehen sollte.]CON
+16 [Es wird alles teuerer, Lebensmittel und Klamotten]CON
+17 [und nicht alle haben das nötige/ausreichende Geld dafür.]CON
+18 [Ich bin dafür das wir etwas ohne dafür Lohn zu bekommen, was machen sollten,]ZTH
+19 [da es der Umwelt und der Gesellschaft hilft und sie weiter bringt.]FAZ
+20 [Wir sollten für die Gesellschaft arbeiten, aber nur in bestimmten maßen und dabei sollten wir vorsichtig miteinander umgehen.]FAZ

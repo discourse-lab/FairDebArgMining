@@ -1,0 +1,25 @@
+0 [Was ist nun besser, Fast Food oder selbsgekochtes, gesundes Essen? ]GLD
+1 [Immer öfter findet eine Diskussion zwischen den beiden Seiten statt, in der über die bessere Art von Essen debattiert, doch was ist nun besser?]GLD
+2 [Heutzutage konsumieren Kinder oder Teenager immer mehr Fast Food,]WHG
+3 [es ist schnell, günstig und lecker.]CON
+4 [Dies stellt eine große Erleichterung für sie dar, wenn sie zum Beispiel nach einem stressigen Schultag schnell in ein Fast Food Restaurant gehen können und innerhalb kürzester Zeit ihr Essen vor sich stehen haben.]CON
+5 [Jedoch kommen auch Argumente ans Licht die definitiv gegen eine solche Ernährung sprechen und eine gesündere Ernährung befürworten.]GLD
+6 [Aus diesem Anlass wird in dieser Erörterung über die postiven Seiten beider Essensarten, aber auch über ihre Probleme gesprochen.]GLD
+7 [Selbst gekochtes Essen ist viel gesünder]PRO
+8 [und besser als Fast Food,]TH1
+9 [da es eine bessere Essensqualität hat, das steht nicht zur Frage.]PRO
+10 [Man nimmt weniger Zusatzstoffe und Kalorien zu sich,]PRO
+11 [da man frische Sachen wie Gemüse verwendet.]PRO
+12 [Selbstkochen kann Spaß machen]PRO
+13 [und man findet vielleicht ein neues Hobby am Kochen,]PRO
+14 [doch auch Fast Food hat seine Vorteile.]TH2
+15 [Im Gegensatz zum selbstgekochten gesunden Essen, ist dieses günstiger und schneller,]CON
+16 [fast immer schmeckt es einem]CON
+17 [und nicht jeder hat noch Energie um nach einem anstrengendem Tag m Herd zustehen und zu kochen.]CON
+18 [Fast Food findet man ja auch heutzutage überall, wenn man zum Beispiel in die Stadt geht um zu shoppen oder einkaufen zu gehen.]CON
+19 [Alle Seiten haben ihre Vorteile aber auch Nachteile vorallem im Thema Gesundheit, wo frisch zubereitetes Essen auf jedenfall besser für den Körper ist doch man kann beide Seiten verstehen.]FAZ
+20 [Zusammenfassend kan man sagen, dass Fast Food natürlich deutlich weniger Aufwand macht, zudem günstiger ist, aber auf eine gesunde Ernährung kann man nicht verzichten.]FAZ
+21 [Meiner Meinung nach sollte man sich in der Mitte treffen.]ZTH
+22 [Selbstgekochte, gesündere Sachen sind zwar besser und tragen zu einer guten Ernährung bei, aber man kann sich ab und zu einen Burger gönnen.]FAZ
+23 [Doch übertreiben sollte man es nicht.]FAZ
+24 [Zum Schluss lässt sich sagen, dass jeder das essen soll, was er/sie am besten für sich selber hält, aber eine gesunde Ernährung schaded nie.]FAZ

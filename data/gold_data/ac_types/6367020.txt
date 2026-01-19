@@ -1,0 +1,18 @@
+0 [In unserer Klasse ist eine diskusion darüber ausgebrochen was ehrenamtliche arbeit bringt]AHG
+1 [die einen sagen sie sind stollz in der Gesellschaft helfen zu können.]PRO
+2 [Die anderen sagen das wenn andere dafür bezahlt werden warum sollte "ich dann kostenlos arbeiten?"]CON
+3 [MAN SOLLTE EHRENAMTLICHE ARBEIT AUSFÜHREN]TH1
+4 [Ehrenamtliche Jobs sind dazu da um deiner gemeinde auszuhelfen.]PRO
+5 [Vlt würde eine Feuerwer garnicht existieren wenn es keine Menschen gäbe die das machen,]PRO
+6 [da sich die Gemeinde das nicht leisten könnte.]PRO
+7 [Außerdem ist das ganze eine Freizeit beschäftigung, ein Hobby bei dem du sogar zum Bsp. Menschenleben retten kannst.]PRO
+8 [MAN SOLLTE EHRENAMTLICHE ARBEIT NICHT AUSFÜHREN]TH2
+9 [Allerdings ist es eine ungerechtigkeit dass manche Menschen dafür bezahlt werden und andere nicht.]CON
+10 [Alle Menschen sollten gleich sein auch bei der Arbeit.]CON
+11 [Auch muss gesagt werden das Wenn Jobs nicht bezahlt werden, werden sie nicht richtig ausgeführt.]CON
+12 [Es ist deine Entscheidung ob du diesen Job Ehrenamtlich ausführen möchtest.]ZTH
+13 [Wenn du keine lust dazu hast dann lass es.]FAZ
+14 [Für ich ist wichtig das man Menschen helfen kann.]PRO
+15 [Außerdem würde zumindest mir der dank der Menschen als Bezahlung reichen.]PRO
+16 [Mein Fazit zu dieser Debatte ist das niemand einen anderen dazu zwingt diese arbeit zu verrichten und jeder kann entscheiden ob er das machen möchtest oder halt auch nicht.]FAZ
+17 [Wenn jemand dafür bezahlt werden möchtest muss er sich für diese Jobs bewerben und dann diesen Job professionel ausführen.]FAZ

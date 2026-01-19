@@ -1,0 +1,42 @@
+[Vor- und Nachteile zu einer gesünderen Ernährung.]GLD
+[Eine Diskusion über die Frage "fast food oder selber kochen?".]GLD
+[Sollte man eher aufwändiges Essen für teure kosten lang zubereiten oder zu stets einfacheren Methoden wie der Tiefkühlpizza greifen, die aber nicht gerade die Nährstoffe abdekt, die ein jener braucht.]GLD
+[Auf der einen Seite haben wir diejenigen die sich für das selber kochen einstezen und auf der anderen seite diejenigen die fast Food beführworten.]WHG
+[These 1:]GLD
+[Gesundes Essen ist pure Verschwändung von Zeit, Geld und Aufwand!]TH2
+[Für das fast Food spricht natürlich das Fast Food keinen großen Aufwand benötigt]CON
+[und man sich um einiges Zeit spart.]CON
+[Zeit die z.B Studenten nicht haben]CON
+[und Aufwand den nicht jeder um 23:00 Uhr betreiben möchte.]CON
+[Noch dazu kommte das Fast Food einige Glücksgefühle auslösen kann.]CON
+[Die Mehrheit aller wird bei denen wohl ich "nein" sagen.]CON
+[Auch ist klar das Fast Food viel billiger ist.]CON
+[Es gibt so viele Armutsprobleme auf dieser Welt]CON
+[und so viele Menschen die nicht die Mittel haben sich aufwändiges Essen leisten können.]CON
+[Fast Food ist eine Alternative die sich definitiv jeder leisten kann.]CON
+[Bekannt ist bei wohl auch jedem das Fast Food einfach immer]CON
+[und jedem schmeckt.]CON
+[Die meßten Teenager betteln nur so darum heute Abend zu Mc Donalds zu fahren um sich einen leckeren Burger zu holen]CON
+[und so geht es wohl den meißten auf diesem Planeten.]CON
+[Die meißten sind wohl der Meinung, dass Junk Food eindeutig immer geht]CON
+[und immer gut schmeckt.]CON
+[Auf der anderen Seite stehen die Argumente gegen Fast Food, eine seite sollte die man nicht außer Acht lassen sollte. ]GLD
+[These 2:]GLD
+[Fast Food macht dick]TH1
+[und ist nur eine Trick deines körpers um dich für den Moment des essens glücklich zu machen.]TH1
+[Fast Food besteht aus kaum Nährstoffen, mit dem dein Körper etwas anfangen kann.]PRO
+[du wirst mit der Zeit nur unglücklicher,]PRO
+[da das essen nicht nur erkennbare auswirkungen auf deinen körper haben wird,]PRO
+[sondern sich auch deine Laune wohl eher verschlechtern wird.]PRO
+[Es fehlt dir an einigen Vitaminen und Mineralien um dich und deinen körper mit dem zu versorgen was er stehts brauchen.]PRO
+[Fast Food fördert bei den meißten Personen Fressattacken, mit darauffolgendem schlechtem Gewissen.]PRO
+[Die Aussage "Fast food macht glücklich, ist in dem sinne also nicht komplett falsch,]CON
+[nur falsch dargestellt.]PRO
+[Fast Food kann für den moment des essens recht glücklich machen,]CON
+[nur wird dieses glücksgefühl nicht lange anhalten.]PRO
+[Besonders ausgeprägt ist dieses Merkmal bei Menschen die sowieso schon Probleme mit sich selbst und ihrem Gewicht haben.]PRO
+[Gesundes essen mag vielleicht mehr Aufwand, Zeit und auch Geld benötigen,]ZTH
+[wirkt sich aber auch deutlich besser im Ganzeffekt auf dich und deinen Körper aus.]ZTH
+[Wichtig ist dabei auch das "auf dich",]FAZ
+[den viele wissen es vielleicht nicht aber gesünderes Esssen kann auch deine Mentale Gesundheit, deutlich ins positive fördern.]FAZ
+[Auch ist das gesunde Ernähren ein Merkmal einer person was die attraktivität jener für andere steigert.]FAZ

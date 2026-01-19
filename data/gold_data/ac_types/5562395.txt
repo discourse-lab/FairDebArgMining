@@ -1,0 +1,42 @@
+0 [An meiner Schule wird über das Thema gesunde Ernährung diskutiert.]AHG
+1 [Die Zeitschrift "Der kleine Gourmet" ist an dem Ergebniss interressiert.]AHG
+2 [In dieser Arbeit werde ich Vorteile und Nachteile von selbst gekochtem Essen und Fast-Food  schreiben und daraus schlussfolgern was besser für einen ist.]GLD
+3 [Fast-Food übersetzt bedeutet "Schnelles Essen".]WHG
+4 [Somit kann man daraus folgern, dass es sich bei Fast Food um schnell zubereitetes Essen geht.]WHG
+5 [Das kann von tiefkühl Pizzen bis hin zu MC-Donalds Burgers gehen.]WHG
+6 <FASTFOOD IST BESSER ALS SELBER KOCHEN>TH2
+7 [Ein großes Problem beim Kochen ist die Wartezeit.]CON
+8 [man muss warten bis etwas aufgetaut ist oder warten bis etwas fertig in der Pfanne gebraten ist.]CON
+9 [Da greifen dann lieber die meisten zu Fast-Food,]CON
+10 [denn es ist schnell, zuverlässig und immer gleich.]CON
+11 [Heutzutage muss man nicht lange fahren bis man zum nächsten Fast-Food Geschäft ist.]CON
+12 [Es gibt mehrer Fast-Food Läden in jeder großen Kaufstrasse.]CON
+13 [Nicht nur das man kann auch bestellen und so wird das Essen nach Hause geliefert.]CON
+14 [Man könne auh einfach zum nächsten Supermarkt gehen und dort Tiefgekühlte Pizzen oder andere Lebensmittel ohne Probleme kaufen.]CON
+15 [Fast-Food ist auch sehr billig]CON
+16 [und immer in der Qualität konstant.]CON
+17 [Nicht wie Bio-Gemüse das jede Saison anders aussieht,]CON
+18 [manchmal in der Qualität schlechter]CON
+19 [und teuer ist.]CON
+20 [Aber auch selbst gekochtes Essen hat seine Vorteile.]TH1
+21 [Fast-Food hat viele Zutaten aus nicht ökologischen Anbau sind]PRO
+22 [und deswegen so billig ist .]CON
+23 [Wenn man selbst kocht , so weiß man was in seinem ERssen steckt ]PRO
+24 [und wie es zubereitet wurde.]PRO
+25 [In der Küche umzugehen lernt man manchmal von seinen Eltern, aber nichts ist besser als die Praxis.]PRO
+26 [Dann kann man kochen lernen]PRO
+27 [und verschiedene Cousinen kennenlernen.]PRO
+28 [Wenn man dann gelernt hat verschieden zu kochen, dann kann man Leute zusammenbringen indem man Leute zu sich einlädt und dann für sie kocht.]PRO
+29 [Es ist eine der schnellsten Wege Freundschaften zu schließen und neue Menschen kennzulernen.]PRO
+30 [Ich liebe es asiatisch zu kochen]PRO
+31 [und esse wenig Fast-Food.]PRO
+32 [Ich weiß das zu viel Fast-Food schlecht für mich ist]PRO
+33 [und esse deswegen nicht allzu viel davon.]PRO
+34 [Es ist nicht nur schlecht für meinen Körper]PRO
+35 [da es zu viel Energie ist,]PRO
+36 [sondern auch für meinen Geist.]PRO
+37 [Man sollte nicht zu viel Fast-Food essen.]FAZ
+38 [Wenn  man schnell klos muss oder To-Go was essen möchte dann ist das die bessere Wahl, aber man sollte immer zu hause selbst für einen kochen.]ZTH
+39 [Auch wenn es nur eine kleine Speise ist wie Kartoffel Salat oder Pasta.c]FAZ
+40 [Mit abwechslungsreiches Esse4n bleibt man gesund im Kopf und im Körper.]FAZ
+41 [Koche selbst, es ist nicht nur gut für deinen Körper sondern auch für deinen  Geist.]FAZ

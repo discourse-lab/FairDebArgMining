@@ -1,0 +1,30 @@
+0 [Am letzten Wandertag haben wir einen Rettungseinsatz der freiwilligen Feuerwehr beobachtet.]AHG
+1 [Diese arbeiten unentgeldlich.]WHG
+2 [Nach dieser Beobachtung, wurde in unserer Klasse viel diskutiert.]AHG
+3 [Jetzt möchte ich auch in diesem Artikel erörtern:]GLD
+4 [Sollte man ein Ehrenamt ausüben?]TH1
+5 <MAN SOLLTE KEIN EHRENAMT AUSÜBEN>TH2
+6 [Einige brachten das Argument an, dass diese Art zweiter Beruf viel Nerven und Stress raube.]CON
+7 [Zum Beispiel im Gesundheitswesen gibt es psychische Belastungen.]CON
+8 [Und die freiwillige Feuerwehr muss jederzeit bereit sein.]CON
+9 [Zudem geht die Arbeit auch als richtiger Job, das wäre dann keine zusätzliche Zeit.]CON
+10 [Andere Menschen werden auch dafür bezahlt.]CON
+11 [Bei gleicher Arbeit, die geleistet wird, ist die Nichtbezahlung der Ehrenamtlichen unfair.]CON
+12 [Auf der anderen Seite lässt sich dagegen anbringen, dass es Spaß macht,]PRO
+13 [die Arbeit ist freiwillig ausgesucht]PRO
+14 [und man kann anderen Menschen helfen.]PRO
+15 [Dabei bekommt man Anerkennnung,]PRO
+16 [dafür dass man freiwillig hilft und uneigennützig ist.]PRO
+17 [Bei der Ausübung eines Ehrenamts kann man die Freizeit sinnvoll nutzen.]PRO
+18 [Das Einfühlungsvermögen wird gestärkt,]PRO
+19 [zurück kommen Liebe und Anerkennung.]PRO
+20 [Würden alle sich engagieren käme es zur Stärkung des Geminschaftsgefühls in der Gesellschaft.]PRO
+21 [Ich persönlich finde es wichtig, sich um andere zu sorgen und dabei sich zu engagieren.]PRO
+22 [Wer das auch findet, sollte ein Ehrenamt ausüben.]ZTH
+23 [Einerseits gibt es eine unbezahlte Belastung, die auch einiges an Zeit einnimmt.]FAZ
+24 [Aber es kann auch Spaß machen,]FAZ
+25 [für Anerkennung sorgen]FAZ
+26 [und man nutzt die eigene Freizeit.]FAZ
+27 [Ein Ehrenamt ist sinnvoll zu ergreifen, wenn es nicht zu belastend u.a. psychisch ist.]FAZ
+28 [Menschen die nicht ohne bezahlung helfen wollen, können ein Beruf in dem Bereich ergreifen.]FAZ
+29 [Oder aber auch ehrenamtlich helfen, wenn es nur wenig ist, ist schon sinnvoll.]FAZ

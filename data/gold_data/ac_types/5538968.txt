@@ -1,0 +1,40 @@
+0 [Ich schreibe aus dem Grund, dass es an unserer Schule im Rahmen eines Projektes eine Diskusion gegeben hat und die Zeitschrift "Der kleine Gourmet" sich an den Ergebnissen interesiert hat.]AHG
+1 [Ich kenne natürlich selber das Problem man sitzt gemütlich zuhause auf der Couch und schaut seine Lieblingsserie.]AHG
+2 [Nach ein paar Stunden merkst man dann, dass man die Zeit komplett aus den Augen verloren hat und plötzlich Hunger hat.]AHG
+3 [Du holst dir dein Handy aus der Hosentasche und gehst auf deine "Bestellapp", wie z.B "Lieferando und bestellst dir einen schönen saftigen Burger.]AHG
+4 [Doch ist es eigentlich gut dieses fettige Zeug zu essen. ]AHG
+5 [Das ist die Frage um die es in der Diskousion ging.]AHG
+6 [Ist es gut Fast Food zu essen?]TH2
+7 [Was ist denn daran schlimm wenn man sich einmal etwas bestellt.]CON
+8 [Ich mache sonst immer genug Sport]CON
+9 [und kann es mir deswegen auch leisten Fast Food zu essen,]CON
+10 [ich werde ja nicht einmal dick.]CON
+11 [Wenn man sich Fastfood holt geht das viel schneller]CON
+12 [und man muss nicht ewig in der Küche stehen,]CON
+13 [dass nervt immer total.]CON
+14 [Es reicht einfach ein Klick]CON
+15 [und in innerhalb kürtzester Zeit wird das Essen an Tür gebracht.]CON
+16 [Außerdem schmeckt Fast Food auch einfach gut,]CON
+17 [es ist egal ob es ungesund ist oder nicht]CON
+18 [man lebt nur einmal]CON
+19 [deswegen sollte man einfach das essen, was eim am besten schmeckt]CON
+20 [Ist es besser selbst sein essen zu kochen?]TH1
+21 [Wenn man sich sein essen selbst macht ist es einfach frischer]PRO
+22 [und somit auch gesünder.]PRO
+23 [Durch die firschen Zutaten ist es viel besser selbst zu kochen,]PRO
+24 [denn man frisst nicht so einen laprigen fettigen Burger in sich rein.]PRO
+25 [Des weiteren kann selbst gekochtes essen sogar noch viel besser schmecken als Fast Food,]PRO
+26 [denn es steckt seine eigene Liebe und "Herzblut im Essen, die das Essen nochmal um einiges aufwerten.]PRO
+27 [Wenn man sein essen selbst kocht weiß man genau, was in seinem Essen eigntlich alles drin ist,]PRO
+28 [wodurch man sich nicht nur gesünder ernähren kann,]PRO
+29 [sondern sogar selbst entscheiden ob man sich gesünder ernähren möchte]PRO
+30 [Ich persönlich finde, dass es besser ist sein essen selbst zu kochen,]ZTH
+31 [denn man weiß genau was in seinem Essen enthalten ist.]FAZ
+32 [Man kann es außerdem nach seinen eigenen Wünschen optiemieren]PRO
+33 [und sogar selbst entscheiden ob man jetzt gesünder essen möchte oder nicht.]PRO
+34 [Es wurden sehr viele Strake Argumente in der Diskourion verwendet, was mich an manchen stellen echt hin und her gerissen hat, z.B das Fast Food einfach schneller geht und man nicht ewig am Herd stehen muss.]FAZ
+35 [Allerdings dafür aber auch nicht weiß was in seinem Essen enthalten ist, was ein sehr großer Vorteil ist.]FAZ
+36 [Ich denke man kann abschließend sagen, dass man sich selbst durch die Diskousion sehr gut entscheiden konnte, ob man sich sein essen lieber selbst kocht oder man weiterhin Fast Food ist.]FAZ
+37 [Ich würde sagen man sollte sich sein essen definitiv selbst kochen, denn man hat einfach viel mehr Möglichkeiten sein essen nach seinen Wünschen auszulegen.]FAZ
+38 [Auch wenn es viel schneller geht sich sein essen zu bestellen ist es wirklich so, dass sein essen, wenn man es sich selber kocht einfach nochmal besser schmeckt, weil man seine eigene Arbeit in das Essen gesteckt hat.]FAZ
+39 [Damit bedanke ich mich fürs lesen und hoffe sie haben jetzt einen besseren Einblick in das Thema bekommen]FAZ

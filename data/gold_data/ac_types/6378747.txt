@@ -1,0 +1,33 @@
+0 [In diesem Artikel der Schülerzeitung möchte ich mich mit dem Thema der Ehrenamtarbeit auseinandersetzen.]GLD
+1 [Oft wird diskutiert ob es sich lohnt ehrenamtlich zu arbeiten, manche sind stolz darauf diese Arbeit zu machen und andere fragen sich wieso sie diese Arbeit machen sollen, wenn sie nicht mal bezahlt werden.]GLD
+2 [Mit diesen beiden Themen möchte ich mich beschäftigen und die Seiten gegenüber stellen.]GLD
+3 [Ich werde mit der Seite, wieso man ehrenamtlich arbeiten sollte, beginnen.]TH1
+4 [Menschen und Schüler, die neben ihrer normalen Arbeit noch ehrenamtlich arbeiten.]PRO
+5 [Machen es meistens nicht nur halbherzig, sondern sie sind komplett bei der Sache dabei]PRO
+6 [und versuchen meistens auch Freunde bzw. andere Bekannte hineinzukommen und zu helfen.]PRO
+7 [Diese Menschen verrichten wichtige Arbeit, die manche andere nicht machen würden.]PRO
+8 [Es ist ungefähr wie ein Hobby, welches eine wichtige Bedeutung hat.]PRO
+9 [Es ist eine Sache auf die sie stolz sein können]PRO
+10 [und die andere Menschen unterstützen sollten.]PRO
+11 [Ihnen geht es dabei nicht nur um das gute Gewissen, sondern etwas für die Gesellschaft zu leisten und die Welt ein Stück besser zu machen.]PRO
+12 [Man muss auserdem bedenken, dass diese Menschen auch wichtige Dinge machen,]PRO
+13 [wie z.B. der Naturschutz oder die Kinderbetreuung.]PRO
+14 [Nur dass sie unterstützen ohne bezahlt zu werden.]CON
+15 [So kommen wir nun auf die andere Seite, nämlich dass man ehrenamtliche Arbeit nicht machen sollte.]TH2
+16 [Besonders ausschlaggebend ist natürlich die Sache mit dem Geld,]CON
+17 [denn man würde arbeiten ohne bezahlt zu werden.]CON
+18 [Für manche Menschen ist es unverständlich, wie jemand so etwas machen würde.]CON
+19 [Andere Menschen möchten vielleicht helfen, finden aber die Zeit dafür nicht.]CON
+21 [Sie haben einfach in dem normalem Alltag keine Zeit dafür,]CON
+22 [weil sie eventuell lange arbeiten oder andere wichtige Dinge zu tun haben.]CON
+23 [Zudem trägt man eine gewisse Verantwortung,]CON
+24 [beosnders in den Bereichen wie Feuerwehr, Polizei oder Gesundheitswesen könnte es teilweise nicht so schön sein, wenn man kleine Sachen falsch macht.]CON
+25 [Es nochmal ein zusätzlicher  Balast für jeden der ehrenamtlich arbeitet.]CON
+26 [Ich finde, dass Menschen die ehrenamtlich arbeiten wertgeschätzt und unterstüzt werden sollten.]FAZ
+27 [Die anderen, die diese Arbeit nicht so mögen, wo ich auch dazu gehöre, sollten froh sein, dass andere ehrenamtlich arbeiten und helfen.]FAZ
+28 [Mein Fazit ist, dass die ehrenamtlich arbeitenden Menschen, eine gute Sache machen, die unterstüzt werden sollte. ]FAZ
+29 [Sie stecken ihre Freizeit und Hilfe in wichtige Dinge und helfen so der Gesellschaft.]FAZ
+30 [Allerdings wenn man nicht ehrenamtlich arbeiten möchte, ist dies auch nicht schlimm.]FAZ
+31 [Manche haben einfach die Zeit nicht und möchten doch etwas Geld dafür haben ihre Freizeit da reinzustecken.]FAZ
+32 [Menschen, ehrenamlich arbeiten wollen, sollen es machen.]ZTH
+33 [Menschen die es nicht machen wollen, sollten die wertschätzen, die es machen.]ZTH
