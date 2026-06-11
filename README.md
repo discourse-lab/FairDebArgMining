@@ -1,7 +1,8 @@
 # FairDebArgMining
 This is the repository for the argumentation mining experiments on the dataset of secondary-level argumentative student essays collected through the "Fair Debating and Written Argumentation" (FDE) project. Details on the project are described in:
 
-- literature
+- Winnie-Karen Giera, Manfred Stede, Lucas Deutzmann, and Eric Graßnick. 2025a. Exploring the Power of Persuasion in Written Argumentation: A Mixed-Methods Pilot Study (QASA). *Journal of Applied Language Learning*, 2(2):1–10.
+- Winnie-Karen Giera, Lucas Deutzmann, and Subhan Sheikh Muhammad. 2025b. Merging oral and written argumentation: Supporting student writing through debate and srsd in inclusive classrooms. *Education Sciences*, 15(11):1471.
 
 # Extension of FDE with argumentation annotation (FDE-Arg)
 
@@ -9,23 +10,37 @@ We introduce an annotation scheme for analysing secondary-level argumentative st
 
 Our overall scheme, including theoretical and practical motivations for our annotation decisions, are described in detail in:
 
-AC Paper
+- Xiaoyu Bai, Kemal Afzal, Dietmar Benndorf, Lucas Deutzmann, Winnie-Karen Giera, Eric Graßnick, and Manfred Stede. 2026. From newspapers to classrooms: Adapting an annotation scheme and automatic classifiers to mixed-quality argumentative school essays. *Argument & Computation*. In press.
 
 ## Version 1
 
-This is the first and original version of the annotation scheme and the basis of (AC paper).
+This is the first and original version of the annotation scheme and the basis of Bai et al. (2026).
 
-This version only includes argument component type annotations does not include annotations of argument relations.
+This version only includes argument component type annotations and does not include annotations of argument relations.
 
-The annotation guideline for this version can be found here:
-An inter-annotator agreement study based on 30 essays annotated according to this annotation version can be found here: 
-A set of 50 essays annotated according to this 
+The annotation guideline for this version (at present only available in German) can be found here: <br>
+An inter-annotator agreement study based on 30 essays annotated according to this annotation version can be found here: <br>
+A set of 50 essays annotated according to this version can be found here:<br>
 
-## Version 2.
+## Version 2
 
-## Annotation Procedure
-The latest version of our annotation guideline (at present only available in German) can be found at `data/AnnoRiLi_Schueleraufsaetze-3.pdf`.
+We have made slight changes to our annotation of component types and added argument relation annotations. Data using this annotation version is the basis of the following publication:
 
-## Annotated Data ##
-Our dataset with gold-standard annotations for AC types can be found at `data/gold_data/ac_types`.
+- Xiaoyu Bai and Manfred Stede. 2026. Fine-Grained Content Zone Prediction in German Argumentative Essays Using LLMs.
+This paper will be presented at the *21st Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2026)* in San Diego, United States, and is due to be published in its proceedings.
+
+Please note that in Bai & Stede (2026), the "argument component types" are referred to as "argumentative content zones".
+
+The annotation guideline for this version (at present only available in German) can be found here: <br>
+At present, only the 100-sample dataset used by Bai & Stede (2026) is publicly available and can be found here: <br>
+
+We expect to release the full dataset (consisting of approximately 1010 essays) once all annotation work has been completed.
+
+## Automatic prediction of argument component types / argumentative content zones using LLMs
+
+We conducted experiments on using LLMs to automatically predict the segment-level component types / content zones. The resources used are here:<br>
+
+
+
+
 
