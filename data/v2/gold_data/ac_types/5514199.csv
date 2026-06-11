@@ -1,0 +1,35 @@
+Nr.|Text|ADD|AUF|FKT|REL|ZIE|THE|KON
+X|||||||FAST|UEN
+0|Was ist nun besser, Fast Food oder selbsgekochtes, gesundes Essen?|N|EIN|GLD||||
+1|Immer öfter findet eine Diskussion zwischen den beiden Seiten statt, in der über die bessere Art von Essen debattiert, doch was ist nun besser?|N|EIN|GLD||||
+2|Heutzutage konsumieren Kinder oder Teenager immer mehr Fast Food,|N|EIN|WHG||||
+3|es ist schnell, günstig und lecker.|N|EIN|CON||||
+4|Dies stellt eine große Erleichterung für sie dar, wenn sie zum Beispiel nach einem stressigen Schultag schnell in ein Fast Food Restaurant gehen können und innerhalb kürzester Zeit ihr Essen vor sich stehen haben.|N|EIN|CON||||
+5|Jedoch kommen auch Argumente ans Licht die definitiv gegen eine solche Ernährung sprechen und eine gesündere Ernährung befürworten.|N|EIN|GLD||||
+6|Aus diesem Anlass wird in dieser Erörterung über die postiven Seiten beider Essensarten, aber auch über ihre Probleme gesprochen.|N|EIN|GLD||||
+7|Selbst gekochtes Essen ist viel gesünder|N|HAU|PRO||||
+8|und besser als Fast Food,|N|HAU|TH1||||
+9|da es eine bessere Essensqualität hat,|N|HAU|PRO||||
+10|das steht nicht zur Frage.|N|HAU|SON||||
+11|Man nimmt weniger Zusatzstoffe und Kalorien zu sich,|N|HAU|PRO||||
+12|da man frische Sachen wie Gemüse verwendet.|N|HAU|PRO||||
+13|Selbstkochen kann Spaß machen|N|HAU|PRO||||
+14|und man findet vielleicht ein neues Hobby am Kochen,|N|HAU|PRO||||
+15|doch auch Fast Food hat seine Vorteile.|N|HAU|TH2||||
+16|Im Gegensatz zum selbstgekochten gesunden Essen, ist dieses günstiger und schneller,|N|HAU|CON||||
+17|fast immer schmeckt es einem|N|HAU|CON||||
+18|und nicht jeder hat noch Energie um nach einem anstrengendem Tag m Herd zustehen und zu kochen.|N|HAU|CON||||
+19|Fast Food findet man ja auch heutzutage überall, wenn man zum Beispiel in die Stadt geht um zu shoppen oder einkaufen zu gehen.|N|HAU|CON||||
+20|Alle Seiten haben ihre Vorteile aber auch Nachteile|N|SCH|ZTH||||
+21|vorallem im Thema Gesundheit, wo frisch zubereitetes Essen auf jedenfall besser für den Körper ist|N|SCH|PRO||||
+22| doch man kann beide Seiten verstehen.|N|SCH|ZTH||||
+23|Zusammenfassend kan man sagen, dass Fast Food natürlich deutlich weniger Aufwand macht,|N|SCH|CON||||
+24|zudem günstiger ist,|N|SCH|CON||||
+25|aber auf eine gesunde Ernährung kann man nicht verzichten.|N|SCH|PRO||||
+26|Meiner Meinung nach sollte man sich in der Mitte treffen.|N|SCH|ZTH||||
+27|Selbstgekochte, gesündere Sachen sind zwar besser|N|SCH|PRO||||
+28|und tragen zu einer guten Ernährung bei,|N|SCH|PRO||||
+29|aber man kann sich ab und zu einen Burger gönnen.|N|SCH|CON||||
+30|Doch übertreiben sollte man es nicht.|N|SCH|CON||||
+31|Zum Schluss lässt sich sagen, dass jeder das essen soll, was er/sie am besten für sich selber hält,|N|SCH|ZTH||||
+32|aber eine gesunde Ernährung schaded nie.|N|SCH|PRO||||

@@ -1,0 +1,30 @@
+Nr.|Text|ADD|AUF|FKT|REL|ZIE|THE|KON
+X|||||||FAST|ABW
+0|Aufgrund eines Projektes möchten wir herausfinden ob man lieber frisch kochen sollte oder Fast Food die bessere Lösung ist.|N|EIN|AHG||||
+1|"Jeden Tag sind wir konfrontiert mit der Frage ""Was gibt es heute zu Essen?""."|N|EIN|WHG||||
+2|Da es ein Lebensnotwendiger Bestandteil ist, müssen wir auch entscheiden was wir zu uns nehmen.|N|EIN|WHG||||
+3|Frisch kochen oder doch lieber Fast Food?|N|EIN|GLD||||
+4|Es sprechen viele Argumente für die Zubereitung von frischem Essen.|N|HAU|TH1||||
+5|Frische Zutaten sind gesund für den Körper,|N|HAU|PRO||||
+6|da sie viele Vitamine enthalten,|N|HAU|PRO||||
+7|zb bei der richtigen Zubereitung von Gemüse, gehen keine Vitamine verloren sondern bleiben enthalten.|N|HAU|PRO||||
+8|Außerdem weiß man woher die Zutaten kommen|N|HAU|PRO||||
+9|und welche Zutaten in den Gerichten überhaupt enthalten sind.|N|HAU|PRO||||
+10|Wie z.B bei Obst und Gemüse, denn man kann sich immer über die Herkunft informieren|N|HAU|PRO||||
+11|oder bei Fleisch an der Packung erkennen, ob die Tiere in Massentierhaltung gehalten worden sind oder ob sie Freilauf hatten, genau wie bei Eiern.|N|HAU|PRO||||
+12|Ein anderer wichtiger Punkt ist, dass man so Bauern und Schlachter aus verschiedenen Regionen unterstützt, wenn man die Produkte frisch kauft.|N|HAU|PRO||||
+13|Die Biohaltung wird somit auch gestärkt, wenn man sich beim Kauf für Bio Ware entscheiden sollte.|N|HAU|PRO||||
+14|Jedoch sprechen auch viele Argumente für das Kaufen und verzehren von Fast Food.|N|HAU|TH2||||
+15|Denn man spart sich viel Zeit|N|HAU|CON||||
+16|und muss nicht selber Kochen, z.B wenn man einen anstrengenden Tag hatte und spät nach Hause kommt.|N|HAU|CON||||
+17|Außerdem gibt man nicht so viel Geld aus,|N|HAU|CON||||
+18|da Fast Food viel günstiger ist.|N|HAU|CON||||
+19|Eine Pizza fertig zu kaufen ist viel günstiger als alle Zutaten zu besorgen die man dafür benötigt.|N|HAU|CON||||
+20|Ein weiterer stützender Punkt ist, dass bei vielen Fertigprodukten trotzdem draufsteht das Vitamine und nur gute Zutaten enthalten sind.|N|HAU|CON||||
+21|Wie z.B bei Pommes, da auf der Packung meist vermerkt ist, dass man sie in weniger Öl oder gar kein Öl zubereiten muss und so die guten Nährstoffe enthalten bleiben.|N|HAU|CON||||
+22|Ich bin der Meinung man sollte frisch kochen,|N|SCH|ZTH||||
+23|da es einerseits Spaß macht|N|SCH|PRO||||
+24|und auf der anderen Seite auch noch gesund ist|N|SCH|PRO||||
+25|und alle wichtigen Nährstoffe enthalten bleiben.|N|SCH|PRO||||
+26|Ab und zu kann man auch Fast Food essen|N|SCH|CON||||
+27|aber sollte überwiegend gesund kochen.|N|SCH|ZTH||||

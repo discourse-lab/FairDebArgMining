@@ -1,0 +1,43 @@
+Nr.|Text|ADD|AUF|FKT|REL|ZIE|THE|KON
+X|||||||FAST|ABW
+0|Selbst gekochtes Essen oder Fast Food?|N|EIN|GLD||||
+1|Jeder kennt es doch, man kommt spät nach Hasue und hat noch nichts gegessen.|N|EIN|WHG||||
+2|Dann nimmt man sich eine Tiefkühl-Pizza und schiebt sie in den Ofen.|N|EIN|WHG||||
+3|Nach 20 Minuten ist dann die Pizza bereit gegessen zu werden.|N|EIN|WHG||||
+4|Doch ist das wirklich Gesund oder sollte man sich lieber noch an den Herd stellen und frisch kochen?|N|EIN|GLD||||
+5|"Genau damit hat sich die Zeitschrift ""Der kleine Gourmet"" im Rahmen eines Projektes beschäftigt."|N|EIN|AHG||||
+6|Als Fast Food definiert man in dem Fall Tiefkühl Pizzen oder fertig Burger.|N|EIN|WHG||||
+7|Als frisches bzw. selbst gekochtes Essen definiere ich in dem Fall frisch gemachte Nudeln mit Bolongnese.|N|EIN|WHG||||
+8|Es stehen nun zwei Aussagen im Raum, die einmal für Fast Food und einmal für frisches Essen stehen.|N|EIN|GLD||||
+9|"Die erste These lautet:""Ich kaufe mir die Zutaten lieber frisch."|N|HAU|TH1||||
+10|Das ist doch viel Gesünder.|N|HAU|PRO||||
+11|Für diese These spricht, dass man sich beschäftigt mit dem Essen was man ist|N|HAU|PRO||||
+12|und extra einkaufen geht um zu wissen was man alles in seinem Essen verarbeitet.|N|HAU|PRO||||
+13|Es kommt natürlich darauf an was man für Sachen zum Kochen kauft, aber wer sein Essen selber zu bereitet weiß auch was drin ist|N|HAU|PRO||||
+14|und man kann somit besser auf seine Ernährung, etc. achten.|N|HAU|PRO||||
+15|Kochen ist außerdem nicht schwer man kann ja erstmal langsam rein starten,|N|HAU|PRO||||
+16|wenn man dann aber erstmal drin ist, kann es sogar richtig Spaß machen.|N|HAU|PRO||||
+17|Viele Menschen leiden an Übergewicht, da sie aber auch häufig nicht gucken was sie Essen.|N|HAU|PRO||||
+18|Eine Statistik von Statista hat ergeben, dass ein Großteil der Leute die selber frisch kochen nicht an Übergewicht leiden.|N|HAU|PRO||||
+19|Kommen wir zur zweiten These zwei.|N|HAU|GLD||||
+20|"""Ehe ich ewig am Herd stehe, nehme ich mir lieber die Fertigpizza."|N|HAU|TH2||||
+21|""" Das verzerren von Fast Food spart natürlich enorm Zeit,"|N|HAU|CON||||
+22|da man sich z.B. eine Pizza für 10min in dden Ofen schieben muss und dann kann man essen.|N|HAU|CON||||
+23|Außerdem ist nicht jedes Fast Food ungesund.|N|HAU|CON||||
+24|Wenn man nicht gut kochen kann ist Fast Food eine super alternative,|N|HAU|CON||||
+25|da es schnell geht|N|HAU|CON||||
+26|und gut schmeckt.|N|HAU|CON||||
+27|Man hat außerdem den tag über gesehen mehr Zeite|N|HAU|CON||||
+28|da man sich nicht zweimal mndestens ne Stund ehinstellen muss um sich essen zu zu bereiten,|N|HAU|CON||||
+29|man spart auf den Tag gesehen also auch Zeit.|N|HAU|CON||||
+30|Ich würde zu dem Theam sagen, dass es defintitiv besser ist frisch zu Kochen,|N|SCH|ZTH||||
+31|da man einfach häufig Gesünder lebt|N|SCH|PRO||||
+32|und man so sich besser vor anderen Krankheiten schützt.|N|SCH|PRO||||
+33|Natürlich geht aber auch mal Fast Food wenn es halt mal ebend schnell gehen muss.|N|SCH|CON||||
+34|Ich würde mich trotzdem auf die Seite des frischen Essens stellen,|N|SCH|ZTH||||
+35|da kochen auch echt Spaß machen kann.|N|SCH|PRO||||
+36|Man kann also abschließend sagen das beide Seiten ihre Argumente haben,|N|SCH|SON||||
+37|allerdings ist frisches Essen auf dauer besser,|N|SCH|ZTH||||
+38|da man halt einfach häufig Gesünder lebt.|N|SCH|PRO||||
+39|Ich würde jedem also frisches Essen empfehlen,|N|SCH|ZTH||||
+40|eine Tiefkühlpizza geht allerdings auch Mal.|N|SCH|CON||||

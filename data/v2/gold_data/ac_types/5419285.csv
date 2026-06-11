@@ -1,0 +1,42 @@
+Nr.|Text|ADD|AUF|FKT|REL|ZIE|THE|KON
+X|||||||FAST|UEN
+0|An einer Schule wird bei einem Projekt über gesundes Essen disskutiert.|N|EIN|WHG||||
+1|"Die Zeitung ""Der kleine Gourmet"" ist an den Ergebnissen des Projekts und ich möchte einen Artikel über diese Ergebnisse schreiben."|N|EIN|GLD||||
+2|Fast Food ist bei vielen Menschen sehr beliebt, aber auch gesundes Essen wird von vielen bevorzugt.|N|EIN|WHG||||
+3|Jeder hat allerdings eine eigene Meinung über dieses Thema.|N|EIN|WHG||||
+4|In diesem Artikel berichte ich über die Ergebnisse eines Projektes in einer Schule, in dem es um Fast Food und gesundes Essen ging.|N|EIN|GLD||||
+5|Selberkochen ist besser als Fast Food|J|HAU|TH1||||
+6|Ein Argument für gesundes Essen ist dass man genau weiß, was in dem Essen drin ist.|N|HAU|PRO||||
+7|Wenn in dem Essen Fleisch drin ist, kann man für dieses Essen Bio Fleisch verwenden.|N|HAU|PRO||||
+8|In den Fast Food Essen sind meist Fleisch drin, von dem die Tiere vorher nicht glücklich waren.|N|HAU|PRO||||
+9|So kann man sich allerdings sicher sein, wo die sachen her kommen, ob die Tiere vorher glücklich waren und ob bei den pflanzlichen Zutaten Pestizide oder sonstioge Sachen verwendet wurden.|N|HAU|PRO||||
+10|Manchen Menschen ist es allerdings egal ob die Tiere glücklich waren oder bei den Pflanzen Pestizide o.ä. angewendet wurde.|N|HAU|CON||||
+11|Oder sie haben einfach keine Lust selber zu kochen oder groß einkaufen zu gehen.|N|HAU|CON||||
+12|Ein weiteres Argument ist dass manche Spaß am Kochen haben.|N|HAU|PRO||||
+13|Vielen Menschen macht es viel Spaß zu kochen,|N|HAU|PRO||||
+14|wenn man allerdings Fast Food bestellt, kann man nicht selber kochen.|N|HAU|PRO||||
+15|Fast Food ist besser als Selberkochen.|J|HAU|TH2||||
+16|Man bekommt das Essen schon gekocht zugestellt und kann es nur noch auf einen Teller legen.|N|HAU|CON||||
+17|Wenn man allerdings Fast Food bestellt steht man nicht ewig am Herd.|N|HAU|CON||||
+18|Viele Menschen haben gar nicht die Zeit etwas frisches zu kochen,|N|HAU|CON||||
+19|da sie zum Beispiel sehr lange auf der Arbeit sind oder einfach viel zu tun haben.|N|HAU|CON||||
+20|Da ist das natürlich viel praktischer.|N|HAU|CON||||
+21|Frisch zubereitetes Essen ist gesünder,|N|HAU|PRO||||
+22|da man dort normalerweise nicht so viel Fett reinmacht wie in Fast Food enthalten ist.|N|HAU|PRO||||
+23|Durch das viele fett ist Fast Food sehr ungesund|N|HAU|PRO||||
+24|und wenn man das zu oft isst und sich dazu noch wenig bewegt, kann man sehr schnell sehr dick werden.|N|HAU|PRO||||
+25|Wenn man sich allerdings gesund ernährt, und sich auch regeläßig bewegt, ist die Wahrscheinklichkeit, dass man dick wird sehr viel geringer.|N|HAU|PRO||||
+26|Manchen Menschen schmeckt Fast Food durch das viele Fett sehr viel besser|N|HAU|CON||||
+27|und haben keine Lust auf gesunde Ernährung.|N|HAU|CON||||
+28|Meine Meinung ist, dass frisch zubereitete Mahlzeiten sehr viel gesünder sind|N|SCH|PRO||||
+29|da man zum einen genau weiß was drin ist|N|SCH|PRO||||
+30|und zum anderen auch selbst bestimmen kann welche Zutaten man kauft und dadurch auch weiß wo die Zutaten alle herkommen.|N|SCH|PRO||||
+31|Wenn manche Menschen sich allerdings nur von Fast Food ernähren ist das ihre Sache.|N|SCH|CON||||
+32|Ich finde es okay, wenn man ab und zu mal Fast Food isst.|N|SCH|CON||||
+33|Das ist dann nicht ganz so ungesund.|N|SCH|CON||||
+34|Im großen und ganzen finde ich frisch zubereitetes Essen trotz allem viel besser.|N|SCH|PRO||||
+35|Mein Fazit ist, dass jeder seine eigene Meinung darüber hat.|N|SCH|ZTH||||
+36|Dass frisch zubereitetes Essen allerdings gesünder ist aber fast Food schneller geht, darüber sind sich denke ich alle einig.|N|SCH|WHG||||
+37|Wie sich jeder ernährt ist die Sache von jedem einzelnen.|N|SCH|ZTH||||
+38|Eine Empfehlung ist, dass man sich lieber gesund ernähren und nicht jeden Tag Fast Food essen sollte.|N|SCH|SON||||
+39|Ab und zu Fast Food ist in Ordnung aber nicht ständig.|N|SCH|CON||||
