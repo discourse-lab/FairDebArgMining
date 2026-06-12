@@ -161,30 +161,3 @@ def get_chunk_simil(target_essay_str, cand_essay_str, sbert_model):
     t_embeds, cand_embeds = sbert_model.encode(target_essay_str), sbert_model.encode(cand_essay_str)
     simil_score = sbert_model.similarity(t_embeds, cand_embeds).numpy()
     return float(np.squeeze(simil_score))
-
-
-if __name__ == '__main__':
-    fi = open('../data_tmp/full_cz_data.p', 'rb')
-    data = pickle.load(fi)
-    fi.close()
-
-    # SBERT_MODEL_NAME = 'sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2'
-
-    random.shuffle(data)
-    test = data[0]
-    train = data[1:11]
-
-    # print('Setting up SBert model:', SBERT_MODEL_NAME)
-    # sbert_model = SentenceTransformer(SBERT_MODEL_NAME)
-
-    # demos = get_similar_demo_essays(
-    #     target_essay=test,
-    #     all_train_essays=train,
-    #     sbert_model=sbert_model
-    # )
-
-    demos = get_random_demo_essays(
-        target_essay=test,
-        all_train_essays=train,
-        k=3
-    )

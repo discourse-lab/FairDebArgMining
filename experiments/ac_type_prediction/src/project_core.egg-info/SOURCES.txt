@@ -1,0 +1,15 @@
+pyproject.toml
+src/project_core/__init__.py
+src/project_core/eval.py
+src/project_core/evaluation.py
+src/project_core/helpers.py
+src/project_core/llm_few_shot.py
+src/project_core/llm_helper.py
+src/project_core/llms.py
+src/project_core/process_data.py
+src/project_core/prompt_templates.py
+src/project_core/visualisation.py
+src/project_core.egg-info/PKG-INFO
+src/project_core.egg-info/SOURCES.txt
+src/project_core.egg-info/dependency_links.txt
+src/project_core.egg-info/top_level.txt
