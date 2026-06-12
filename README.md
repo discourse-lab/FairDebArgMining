@@ -27,14 +27,15 @@ A set of 50 essays annotated according to this version can be found here:`data/v
 We have made slight changes to our annotation of AC types and added argument relation annotations. Data using this annotation version is the basis of the following publication:
 
 - Xiaoyu Bai and Manfred Stede. 2026. Fine-Grained Content Zone Prediction in German Argumentative Essays Using LLMs.
+  
 This paper will be presented at the *21st Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2026)* in San Diego, United States, and is due to be published in its proceedings.
 
-Please note that for reasons of compatibility with earlier work, a different terminology is used in Bai & Stede (2026), where AC types are referred to as "argumentative content zones".
+Please note that for reasons of compatibility with earlier work, different terminology is used in Bai & Stede (2026), where AC types are referred to as "argumentative content zones".
 
 The annotation guideline for this version (at present only available in German) can be found here: `data/v2/AnnoRiLi_Schueleraufsaetze-V2.pdf` <br>
 At present, only the 100-sample dataset used by Bai & Stede (2026) is publicly available and can be found here: `data/v2/gold_data/ac_types`. This does not yet include annotations for argument relations.<br>
 
-We expect to release the full dataset (consisting of approximately 1010 essays) along with all of our annotation once all annotation work has been completed.
+We expect to release the full dataset (consisting of approximately 1010 essays) along with all of our annotations (including argument relation annotations) once all annotation work has been completed.
 
 ## Automatic prediction of argument component types / argumentative content zones using LLMs
 
